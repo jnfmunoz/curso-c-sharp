@@ -1,0 +1,14 @@
+C:\projects\curso-c-sharp\01-HolaMundo\01-HolaMundo\bin\Debug\net8.0\01-HolaMundo.exe
+C:\projects\curso-c-sharp\01-HolaMundo\01-HolaMundo\bin\Debug\net8.0\01-HolaMundo.deps.json
+C:\projects\curso-c-sharp\01-HolaMundo\01-HolaMundo\bin\Debug\net8.0\01-HolaMundo.runtimeconfig.json
+C:\projects\curso-c-sharp\01-HolaMundo\01-HolaMundo\bin\Debug\net8.0\01-HolaMundo.dll
+C:\projects\curso-c-sharp\01-HolaMundo\01-HolaMundo\bin\Debug\net8.0\01-HolaMundo.pdb
+C:\projects\curso-c-sharp\01-HolaMundo\01-HolaMundo\obj\Debug\net8.0\01-HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\01-HolaMundo\01-HolaMundo\obj\Debug\net8.0\01-HolaMundo.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\01-HolaMundo\01-HolaMundo\obj\Debug\net8.0\01-HolaMundo.AssemblyInfo.cs
+C:\projects\curso-c-sharp\01-HolaMundo\01-HolaMundo\obj\Debug\net8.0\01-HolaMundo.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\01-HolaMundo\01-HolaMundo\obj\Debug\net8.0\01-HolaMundo.dll
+C:\projects\curso-c-sharp\01-HolaMundo\01-HolaMundo\obj\Debug\net8.0\refint\01-HolaMundo.dll
+C:\projects\curso-c-sharp\01-HolaMundo\01-HolaMundo\obj\Debug\net8.0\01-HolaMundo.pdb
+C:\projects\curso-c-sharp\01-HolaMundo\01-HolaMundo\obj\Debug\net8.0\01-HolaMundo.genruntimeconfig.cache
+C:\projects\curso-c-sharp\01-HolaMundo\01-HolaMundo\obj\Debug\net8.0\ref\01-HolaMundo.dll

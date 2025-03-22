@@ -1,0 +1,14 @@
+C:\projects\curso-c-sharp\02-Variables\02-Variables\bin\Debug\net8.0\02-Variables.exe
+C:\projects\curso-c-sharp\02-Variables\02-Variables\bin\Debug\net8.0\02-Variables.deps.json
+C:\projects\curso-c-sharp\02-Variables\02-Variables\bin\Debug\net8.0\02-Variables.runtimeconfig.json
+C:\projects\curso-c-sharp\02-Variables\02-Variables\bin\Debug\net8.0\02-Variables.dll
+C:\projects\curso-c-sharp\02-Variables\02-Variables\bin\Debug\net8.0\02-Variables.pdb
+C:\projects\curso-c-sharp\02-Variables\02-Variables\obj\Debug\net8.0\02-Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\02-Variables\02-Variables\obj\Debug\net8.0\02-Variables.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\02-Variables\02-Variables\obj\Debug\net8.0\02-Variables.AssemblyInfo.cs
+C:\projects\curso-c-sharp\02-Variables\02-Variables\obj\Debug\net8.0\02-Variables.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\02-Variables\02-Variables\obj\Debug\net8.0\02-Variables.dll
+C:\projects\curso-c-sharp\02-Variables\02-Variables\obj\Debug\net8.0\refint\02-Variables.dll
+C:\projects\curso-c-sharp\02-Variables\02-Variables\obj\Debug\net8.0\02-Variables.pdb
+C:\projects\curso-c-sharp\02-Variables\02-Variables\obj\Debug\net8.0\02-Variables.genruntimeconfig.cache
+C:\projects\curso-c-sharp\02-Variables\02-Variables\obj\Debug\net8.0\ref\02-Variables.dll
