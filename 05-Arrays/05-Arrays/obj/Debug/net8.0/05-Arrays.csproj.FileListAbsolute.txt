@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\05-Arrays\05-Arrays\bin\Debug\net8.0\05-Arrays.exe
+C:\projects\curso-c-sharp\05-Arrays\05-Arrays\bin\Debug\net8.0\05-Arrays.deps.json
+C:\projects\curso-c-sharp\05-Arrays\05-Arrays\bin\Debug\net8.0\05-Arrays.runtimeconfig.json
+C:\projects\curso-c-sharp\05-Arrays\05-Arrays\bin\Debug\net8.0\05-Arrays.dll
+C:\projects\curso-c-sharp\05-Arrays\05-Arrays\bin\Debug\net8.0\05-Arrays.pdb
+C:\projects\curso-c-sharp\05-Arrays\05-Arrays\obj\Debug\net8.0\05-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\05-Arrays\05-Arrays\obj\Debug\net8.0\05-Arrays.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\05-Arrays\05-Arrays\obj\Debug\net8.0\05-Arrays.AssemblyInfo.cs
+C:\projects\curso-c-sharp\05-Arrays\05-Arrays\obj\Debug\net8.0\05-Arrays.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\05-Arrays\05-Arrays\obj\Debug\net8.0\05-Arrays.sourcelink.json
+C:\projects\curso-c-sharp\05-Arrays\05-Arrays\obj\Debug\net8.0\05-Arrays.dll
+C:\projects\curso-c-sharp\05-Arrays\05-Arrays\obj\Debug\net8.0\refint\05-Arrays.dll
+C:\projects\curso-c-sharp\05-Arrays\05-Arrays\obj\Debug\net8.0\05-Arrays.pdb
+C:\projects\curso-c-sharp\05-Arrays\05-Arrays\obj\Debug\net8.0\05-Arrays.genruntimeconfig.cache
+C:\projects\curso-c-sharp\05-Arrays\05-Arrays\obj\Debug\net8.0\ref\05-Arrays.dll

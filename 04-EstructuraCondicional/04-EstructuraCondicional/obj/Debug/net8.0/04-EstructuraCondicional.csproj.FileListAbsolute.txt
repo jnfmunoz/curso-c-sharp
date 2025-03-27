@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\04-EstructuraCondicional\04-EstructuraCondicional\bin\Debug\net8.0\04-EstructuraCondicional.exe
+C:\projects\curso-c-sharp\04-EstructuraCondicional\04-EstructuraCondicional\bin\Debug\net8.0\04-EstructuraCondicional.deps.json
+C:\projects\curso-c-sharp\04-EstructuraCondicional\04-EstructuraCondicional\bin\Debug\net8.0\04-EstructuraCondicional.runtimeconfig.json
+C:\projects\curso-c-sharp\04-EstructuraCondicional\04-EstructuraCondicional\bin\Debug\net8.0\04-EstructuraCondicional.dll
+C:\projects\curso-c-sharp\04-EstructuraCondicional\04-EstructuraCondicional\bin\Debug\net8.0\04-EstructuraCondicional.pdb
+C:\projects\curso-c-sharp\04-EstructuraCondicional\04-EstructuraCondicional\obj\Debug\net8.0\04-EstructuraCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\04-EstructuraCondicional\04-EstructuraCondicional\obj\Debug\net8.0\04-EstructuraCondicional.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\04-EstructuraCondicional\04-EstructuraCondicional\obj\Debug\net8.0\04-EstructuraCondicional.AssemblyInfo.cs
+C:\projects\curso-c-sharp\04-EstructuraCondicional\04-EstructuraCondicional\obj\Debug\net8.0\04-EstructuraCondicional.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\04-EstructuraCondicional\04-EstructuraCondicional\obj\Debug\net8.0\04-EstructuraCondicional.sourcelink.json
+C:\projects\curso-c-sharp\04-EstructuraCondicional\04-EstructuraCondicional\obj\Debug\net8.0\04-EstructuraCondicional.dll
+C:\projects\curso-c-sharp\04-EstructuraCondicional\04-EstructuraCondicional\obj\Debug\net8.0\refint\04-EstructuraCondicional.dll
+C:\projects\curso-c-sharp\04-EstructuraCondicional\04-EstructuraCondicional\obj\Debug\net8.0\04-EstructuraCondicional.pdb
+C:\projects\curso-c-sharp\04-EstructuraCondicional\04-EstructuraCondicional\obj\Debug\net8.0\04-EstructuraCondicional.genruntimeconfig.cache
+C:\projects\curso-c-sharp\04-EstructuraCondicional\04-EstructuraCondicional\obj\Debug\net8.0\ref\04-EstructuraCondicional.dll

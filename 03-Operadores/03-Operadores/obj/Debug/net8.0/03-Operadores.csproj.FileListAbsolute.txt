@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\03-Operadores\03-Operadores\bin\Debug\net8.0\03-Operadores.exe
+C:\projects\curso-c-sharp\03-Operadores\03-Operadores\bin\Debug\net8.0\03-Operadores.deps.json
+C:\projects\curso-c-sharp\03-Operadores\03-Operadores\bin\Debug\net8.0\03-Operadores.runtimeconfig.json
+C:\projects\curso-c-sharp\03-Operadores\03-Operadores\bin\Debug\net8.0\03-Operadores.dll
+C:\projects\curso-c-sharp\03-Operadores\03-Operadores\bin\Debug\net8.0\03-Operadores.pdb
+C:\projects\curso-c-sharp\03-Operadores\03-Operadores\obj\Debug\net8.0\03-Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\03-Operadores\03-Operadores\obj\Debug\net8.0\03-Operadores.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\03-Operadores\03-Operadores\obj\Debug\net8.0\03-Operadores.AssemblyInfo.cs
+C:\projects\curso-c-sharp\03-Operadores\03-Operadores\obj\Debug\net8.0\03-Operadores.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\03-Operadores\03-Operadores\obj\Debug\net8.0\03-Operadores.sourcelink.json
+C:\projects\curso-c-sharp\03-Operadores\03-Operadores\obj\Debug\net8.0\03-Operadores.dll
+C:\projects\curso-c-sharp\03-Operadores\03-Operadores\obj\Debug\net8.0\refint\03-Operadores.dll
+C:\projects\curso-c-sharp\03-Operadores\03-Operadores\obj\Debug\net8.0\03-Operadores.pdb
+C:\projects\curso-c-sharp\03-Operadores\03-Operadores\obj\Debug\net8.0\03-Operadores.genruntimeconfig.cache
+C:\projects\curso-c-sharp\03-Operadores\03-Operadores\obj\Debug\net8.0\ref\03-Operadores.dll
