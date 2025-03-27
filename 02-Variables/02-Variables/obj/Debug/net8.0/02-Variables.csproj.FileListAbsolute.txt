@@ -12,3 +12,4 @@ C:\projects\curso-c-sharp\02-Variables\02-Variables\obj\Debug\net8.0\refint\02-V
 C:\projects\curso-c-sharp\02-Variables\02-Variables\obj\Debug\net8.0\02-Variables.pdb
 C:\projects\curso-c-sharp\02-Variables\02-Variables\obj\Debug\net8.0\02-Variables.genruntimeconfig.cache
 C:\projects\curso-c-sharp\02-Variables\02-Variables\obj\Debug\net8.0\ref\02-Variables.dll
+C:\projects\curso-c-sharp\02-Variables\02-Variables\obj\Debug\net8.0\02-Variables.sourcelink.json

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\projects\\curso-c-sharp\\02-Variables\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4580DFD9-9ECB-453B-A2F2-653598125892}|02-Variables\\02-Variables.csproj|c:\\projects\\curso-c-sharp\\02-variables\\02-variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4580DFD9-9ECB-453B-A2F2-653598125892}|02-Variables\\02-Variables.csproj|solutionrelative:02-variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\02-Variables\\02-Variables\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:02-Variables\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\curso-c-sharp\\02-Variables\\02-Variables\\Program.cs",
               "RelativeDocumentMoniker": "02-Variables\\Program.cs",
-              "ToolTip": "C:\\projects\\curso-c-sharp\\02-Variables\\02-Variables\\Program.cs*",
-              "RelativeToolTip": "02-Variables\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\projects\\curso-c-sharp\\02-Variables\\02-Variables\\Program.cs",
+              "RelativeToolTip": "02-Variables\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T02:48:23.217Z",
+              "WhenOpened": "2025-03-22T17:01:29.523Z",
               "EditorCaption": ""
             }
           ]
