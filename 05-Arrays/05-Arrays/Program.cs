@@ -29,12 +29,22 @@ Console.WriteLine("Resultado {0}", ages[4]);
 
 // Arreglos multidimensionales
 // Array bidimensional
-double[,] doble = new double[2, 2] { { 6, 3.0 }, { 6.3, 5.6 } }; // filas x columnas
+//double[,] doble = new double[2, 2] { { 6, 3.0 }, { 6.3, 5.6 } }; // filas x columnas
 
 // Array tridimensional
-double[,,] doble2 = new double[2, 2, 3] { { { 6, 3.0, 8.9 }, { 6.3, 5.6, 6.7 } } }; // filas x columnas x cantidad de datos x columna
+double[,,] doble2 = new double[2, 2, 3] // filas x columnas x profundidad
+{ 
+    { 
+        { 6, 3.0, 8.9 }, 
+        { 6.3, 5.6, 6.7 } 
+    },
+    {
+        { 26, 33.2, 9.9 },
+        { 34, 0.6, 4.7 }
+    }
+}; 
 
-Console.WriteLine("Resultado {0}", doble[1,0]);
-Console.WriteLine("Resultado {0}", doble[1, 0]);
+//Console.WriteLine("Resultado {0}", doble[1,0]);
+Console.WriteLine("Resultado {0}", doble2[1, 0, 0]); // 26
 
 Console.ReadLine();
