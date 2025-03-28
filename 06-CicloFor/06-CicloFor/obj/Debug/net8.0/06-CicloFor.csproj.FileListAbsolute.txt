@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\06-CicloFor\06-CicloFor\bin\Debug\net8.0\06-CicloFor.exe
+C:\projects\curso-c-sharp\06-CicloFor\06-CicloFor\bin\Debug\net8.0\06-CicloFor.deps.json
+C:\projects\curso-c-sharp\06-CicloFor\06-CicloFor\bin\Debug\net8.0\06-CicloFor.runtimeconfig.json
+C:\projects\curso-c-sharp\06-CicloFor\06-CicloFor\bin\Debug\net8.0\06-CicloFor.dll
+C:\projects\curso-c-sharp\06-CicloFor\06-CicloFor\bin\Debug\net8.0\06-CicloFor.pdb
+C:\projects\curso-c-sharp\06-CicloFor\06-CicloFor\obj\Debug\net8.0\06-CicloFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\06-CicloFor\06-CicloFor\obj\Debug\net8.0\06-CicloFor.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\06-CicloFor\06-CicloFor\obj\Debug\net8.0\06-CicloFor.AssemblyInfo.cs
+C:\projects\curso-c-sharp\06-CicloFor\06-CicloFor\obj\Debug\net8.0\06-CicloFor.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\06-CicloFor\06-CicloFor\obj\Debug\net8.0\06-CicloFor.sourcelink.json
+C:\projects\curso-c-sharp\06-CicloFor\06-CicloFor\obj\Debug\net8.0\06-CicloFor.dll
+C:\projects\curso-c-sharp\06-CicloFor\06-CicloFor\obj\Debug\net8.0\refint\06-CicloFor.dll
+C:\projects\curso-c-sharp\06-CicloFor\06-CicloFor\obj\Debug\net8.0\06-CicloFor.pdb
+C:\projects\curso-c-sharp\06-CicloFor\06-CicloFor\obj\Debug\net8.0\06-CicloFor.genruntimeconfig.cache
+C:\projects\curso-c-sharp\06-CicloFor\06-CicloFor\obj\Debug\net8.0\ref\06-CicloFor.dll

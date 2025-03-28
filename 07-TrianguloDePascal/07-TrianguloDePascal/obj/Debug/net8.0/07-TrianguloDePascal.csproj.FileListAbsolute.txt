@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\07-TrianguloDePascal\07-TrianguloDePascal\bin\Debug\net8.0\07-TrianguloDePascal.exe
+C:\projects\curso-c-sharp\07-TrianguloDePascal\07-TrianguloDePascal\bin\Debug\net8.0\07-TrianguloDePascal.deps.json
+C:\projects\curso-c-sharp\07-TrianguloDePascal\07-TrianguloDePascal\bin\Debug\net8.0\07-TrianguloDePascal.runtimeconfig.json
+C:\projects\curso-c-sharp\07-TrianguloDePascal\07-TrianguloDePascal\bin\Debug\net8.0\07-TrianguloDePascal.dll
+C:\projects\curso-c-sharp\07-TrianguloDePascal\07-TrianguloDePascal\bin\Debug\net8.0\07-TrianguloDePascal.pdb
+C:\projects\curso-c-sharp\07-TrianguloDePascal\07-TrianguloDePascal\obj\Debug\net8.0\07-TrianguloDePascal.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\07-TrianguloDePascal\07-TrianguloDePascal\obj\Debug\net8.0\07-TrianguloDePascal.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\07-TrianguloDePascal\07-TrianguloDePascal\obj\Debug\net8.0\07-TrianguloDePascal.AssemblyInfo.cs
+C:\projects\curso-c-sharp\07-TrianguloDePascal\07-TrianguloDePascal\obj\Debug\net8.0\07-TrianguloDePascal.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\07-TrianguloDePascal\07-TrianguloDePascal\obj\Debug\net8.0\07-TrianguloDePascal.sourcelink.json
+C:\projects\curso-c-sharp\07-TrianguloDePascal\07-TrianguloDePascal\obj\Debug\net8.0\07-TrianguloDePascal.dll
+C:\projects\curso-c-sharp\07-TrianguloDePascal\07-TrianguloDePascal\obj\Debug\net8.0\refint\07-TrianguloDePascal.dll
+C:\projects\curso-c-sharp\07-TrianguloDePascal\07-TrianguloDePascal\obj\Debug\net8.0\07-TrianguloDePascal.pdb
+C:\projects\curso-c-sharp\07-TrianguloDePascal\07-TrianguloDePascal\obj\Debug\net8.0\07-TrianguloDePascal.genruntimeconfig.cache
+C:\projects\curso-c-sharp\07-TrianguloDePascal\07-TrianguloDePascal\obj\Debug\net8.0\ref\07-TrianguloDePascal.dll
