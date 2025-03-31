@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\10-ManipulacionDeString\10-ManipulacionDeString\obj\Debug\net8.0\10-ManipulacionDeString.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\10-ManipulacionDeString\10-ManipulacionDeString\obj\Debug\net8.0\10-ManipulacionDeString.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\10-ManipulacionDeString\10-ManipulacionDeString\obj\Debug\net8.0\10-ManipulacionDeString.AssemblyInfo.cs
+C:\projects\curso-c-sharp\10-ManipulacionDeString\10-ManipulacionDeString\obj\Debug\net8.0\10-ManipulacionDeString.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\10-ManipulacionDeString\10-ManipulacionDeString\obj\Debug\net8.0\10-ManipulacionDeString.sourcelink.json
+C:\projects\curso-c-sharp\10-ManipulacionDeString\10-ManipulacionDeString\bin\Debug\net8.0\10-ManipulacionDeString.exe
+C:\projects\curso-c-sharp\10-ManipulacionDeString\10-ManipulacionDeString\bin\Debug\net8.0\10-ManipulacionDeString.deps.json
+C:\projects\curso-c-sharp\10-ManipulacionDeString\10-ManipulacionDeString\bin\Debug\net8.0\10-ManipulacionDeString.runtimeconfig.json
+C:\projects\curso-c-sharp\10-ManipulacionDeString\10-ManipulacionDeString\bin\Debug\net8.0\10-ManipulacionDeString.dll
+C:\projects\curso-c-sharp\10-ManipulacionDeString\10-ManipulacionDeString\bin\Debug\net8.0\10-ManipulacionDeString.pdb
+C:\projects\curso-c-sharp\10-ManipulacionDeString\10-ManipulacionDeString\obj\Debug\net8.0\10-ManipulacionDeString.dll
+C:\projects\curso-c-sharp\10-ManipulacionDeString\10-ManipulacionDeString\obj\Debug\net8.0\refint\10-ManipulacionDeString.dll
+C:\projects\curso-c-sharp\10-ManipulacionDeString\10-ManipulacionDeString\obj\Debug\net8.0\10-ManipulacionDeString.pdb
+C:\projects\curso-c-sharp\10-ManipulacionDeString\10-ManipulacionDeString\obj\Debug\net8.0\10-ManipulacionDeString.genruntimeconfig.cache
+C:\projects\curso-c-sharp\10-ManipulacionDeString\10-ManipulacionDeString\obj\Debug\net8.0\ref\10-ManipulacionDeString.dll

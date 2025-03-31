@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\08-EstructuraCondicionalSwitch\08-EstructuraCondicionalSwitch\obj\Debug\net8.0\08-EstructuraCondicionalSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\08-EstructuraCondicionalSwitch\08-EstructuraCondicionalSwitch\obj\Debug\net8.0\08-EstructuraCondicionalSwitch.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\08-EstructuraCondicionalSwitch\08-EstructuraCondicionalSwitch\obj\Debug\net8.0\08-EstructuraCondicionalSwitch.AssemblyInfo.cs
+C:\projects\curso-c-sharp\08-EstructuraCondicionalSwitch\08-EstructuraCondicionalSwitch\obj\Debug\net8.0\08-EstructuraCondicionalSwitch.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\08-EstructuraCondicionalSwitch\08-EstructuraCondicionalSwitch\obj\Debug\net8.0\08-EstructuraCondicionalSwitch.sourcelink.json
+C:\projects\curso-c-sharp\08-EstructuraCondicionalSwitch\08-EstructuraCondicionalSwitch\bin\Debug\net8.0\08-EstructuraCondicionalSwitch.exe
+C:\projects\curso-c-sharp\08-EstructuraCondicionalSwitch\08-EstructuraCondicionalSwitch\bin\Debug\net8.0\08-EstructuraCondicionalSwitch.deps.json
+C:\projects\curso-c-sharp\08-EstructuraCondicionalSwitch\08-EstructuraCondicionalSwitch\bin\Debug\net8.0\08-EstructuraCondicionalSwitch.runtimeconfig.json
+C:\projects\curso-c-sharp\08-EstructuraCondicionalSwitch\08-EstructuraCondicionalSwitch\bin\Debug\net8.0\08-EstructuraCondicionalSwitch.dll
+C:\projects\curso-c-sharp\08-EstructuraCondicionalSwitch\08-EstructuraCondicionalSwitch\bin\Debug\net8.0\08-EstructuraCondicionalSwitch.pdb
+C:\projects\curso-c-sharp\08-EstructuraCondicionalSwitch\08-EstructuraCondicionalSwitch\obj\Debug\net8.0\08-EstructuraCondicionalSwitch.dll
+C:\projects\curso-c-sharp\08-EstructuraCondicionalSwitch\08-EstructuraCondicionalSwitch\obj\Debug\net8.0\refint\08-EstructuraCondicionalSwitch.dll
+C:\projects\curso-c-sharp\08-EstructuraCondicionalSwitch\08-EstructuraCondicionalSwitch\obj\Debug\net8.0\08-EstructuraCondicionalSwitch.pdb
+C:\projects\curso-c-sharp\08-EstructuraCondicionalSwitch\08-EstructuraCondicionalSwitch\obj\Debug\net8.0\08-EstructuraCondicionalSwitch.genruntimeconfig.cache
+C:\projects\curso-c-sharp\08-EstructuraCondicionalSwitch\08-EstructuraCondicionalSwitch\obj\Debug\net8.0\ref\08-EstructuraCondicionalSwitch.dll

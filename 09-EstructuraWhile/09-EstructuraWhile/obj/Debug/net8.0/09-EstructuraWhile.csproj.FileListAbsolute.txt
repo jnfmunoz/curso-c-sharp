@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\09-EstructuraWhile\09-EstructuraWhile\bin\Debug\net8.0\09-EstructuraWhile.exe
+C:\projects\curso-c-sharp\09-EstructuraWhile\09-EstructuraWhile\bin\Debug\net8.0\09-EstructuraWhile.deps.json
+C:\projects\curso-c-sharp\09-EstructuraWhile\09-EstructuraWhile\bin\Debug\net8.0\09-EstructuraWhile.runtimeconfig.json
+C:\projects\curso-c-sharp\09-EstructuraWhile\09-EstructuraWhile\bin\Debug\net8.0\09-EstructuraWhile.dll
+C:\projects\curso-c-sharp\09-EstructuraWhile\09-EstructuraWhile\bin\Debug\net8.0\09-EstructuraWhile.pdb
+C:\projects\curso-c-sharp\09-EstructuraWhile\09-EstructuraWhile\obj\Debug\net8.0\09-EstructuraWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\09-EstructuraWhile\09-EstructuraWhile\obj\Debug\net8.0\09-EstructuraWhile.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\09-EstructuraWhile\09-EstructuraWhile\obj\Debug\net8.0\09-EstructuraWhile.AssemblyInfo.cs
+C:\projects\curso-c-sharp\09-EstructuraWhile\09-EstructuraWhile\obj\Debug\net8.0\09-EstructuraWhile.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\09-EstructuraWhile\09-EstructuraWhile\obj\Debug\net8.0\09-EstructuraWhile.sourcelink.json
+C:\projects\curso-c-sharp\09-EstructuraWhile\09-EstructuraWhile\obj\Debug\net8.0\09-EstructuraWhile.dll
+C:\projects\curso-c-sharp\09-EstructuraWhile\09-EstructuraWhile\obj\Debug\net8.0\refint\09-EstructuraWhile.dll
+C:\projects\curso-c-sharp\09-EstructuraWhile\09-EstructuraWhile\obj\Debug\net8.0\09-EstructuraWhile.pdb
+C:\projects\curso-c-sharp\09-EstructuraWhile\09-EstructuraWhile\obj\Debug\net8.0\09-EstructuraWhile.genruntimeconfig.cache
+C:\projects\curso-c-sharp\09-EstructuraWhile\09-EstructuraWhile\obj\Debug\net8.0\ref\09-EstructuraWhile.dll
