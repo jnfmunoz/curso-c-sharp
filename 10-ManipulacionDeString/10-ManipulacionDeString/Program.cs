@@ -32,5 +32,19 @@ Console.WriteLine(remv);
 */
 
 
+// iterando cadena de texto
+var curso = "Curso de C# desde cero";
+var name = "Curso de C# desde cero";
+//var data = curso.IndexOf("#");
+//var data = curso.ToCharArray();
+//var data = curso.ToLower();
+//var data = curso.ToUpper();
+//var data = curso.Equals(name);
+foreach(var item in curso)
+{
+    Console.WriteLine(item);
+}
 
+//Console.WriteLine(data[10]);
+//Console.WriteLine(data);
 Console.ReadLine();
