@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\12-TiposDeMetodos\12-TiposDeMetodos\bin\Debug\net8.0\12-TiposDeMetodos.exe
+C:\projects\curso-c-sharp\12-TiposDeMetodos\12-TiposDeMetodos\bin\Debug\net8.0\12-TiposDeMetodos.deps.json
+C:\projects\curso-c-sharp\12-TiposDeMetodos\12-TiposDeMetodos\bin\Debug\net8.0\12-TiposDeMetodos.runtimeconfig.json
+C:\projects\curso-c-sharp\12-TiposDeMetodos\12-TiposDeMetodos\bin\Debug\net8.0\12-TiposDeMetodos.dll
+C:\projects\curso-c-sharp\12-TiposDeMetodos\12-TiposDeMetodos\bin\Debug\net8.0\12-TiposDeMetodos.pdb
+C:\projects\curso-c-sharp\12-TiposDeMetodos\12-TiposDeMetodos\obj\Debug\net8.0\12-TiposDeMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\12-TiposDeMetodos\12-TiposDeMetodos\obj\Debug\net8.0\12-TiposDeMetodos.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\12-TiposDeMetodos\12-TiposDeMetodos\obj\Debug\net8.0\12-TiposDeMetodos.AssemblyInfo.cs
+C:\projects\curso-c-sharp\12-TiposDeMetodos\12-TiposDeMetodos\obj\Debug\net8.0\12-TiposDeMetodos.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\12-TiposDeMetodos\12-TiposDeMetodos\obj\Debug\net8.0\12-TiposDeMetodos.sourcelink.json
+C:\projects\curso-c-sharp\12-TiposDeMetodos\12-TiposDeMetodos\obj\Debug\net8.0\12-TiposDeMetodos.dll
+C:\projects\curso-c-sharp\12-TiposDeMetodos\12-TiposDeMetodos\obj\Debug\net8.0\refint\12-TiposDeMetodos.dll
+C:\projects\curso-c-sharp\12-TiposDeMetodos\12-TiposDeMetodos\obj\Debug\net8.0\12-TiposDeMetodos.pdb
+C:\projects\curso-c-sharp\12-TiposDeMetodos\12-TiposDeMetodos\obj\Debug\net8.0\12-TiposDeMetodos.genruntimeconfig.cache
+C:\projects\curso-c-sharp\12-TiposDeMetodos\12-TiposDeMetodos\obj\Debug\net8.0\ref\12-TiposDeMetodos.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("06-CicloFor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a86de2e0978de6941a4077988222f3fcb0b2556b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac2467f2cf680b79e72c50cae6d8547e9547bc67")]
 [assembly: System.Reflection.AssemblyProductAttribute("06-CicloFor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("06-CicloFor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

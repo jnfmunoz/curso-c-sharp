@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("10-ManipulacionDeString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8423097168bb21c7a5f88cc26c66e5f277fb93af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac2467f2cf680b79e72c50cae6d8547e9547bc67")]
 [assembly: System.Reflection.AssemblyProductAttribute("10-ManipulacionDeString")]
 [assembly: System.Reflection.AssemblyTitleAttribute("10-ManipulacionDeString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

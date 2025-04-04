@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\11-ClaseStringBuilder\11-ClaseStringBuilder\bin\Debug\net8.0\11-ClaseStringBuilder.exe
+C:\projects\curso-c-sharp\11-ClaseStringBuilder\11-ClaseStringBuilder\bin\Debug\net8.0\11-ClaseStringBuilder.deps.json
+C:\projects\curso-c-sharp\11-ClaseStringBuilder\11-ClaseStringBuilder\bin\Debug\net8.0\11-ClaseStringBuilder.runtimeconfig.json
+C:\projects\curso-c-sharp\11-ClaseStringBuilder\11-ClaseStringBuilder\bin\Debug\net8.0\11-ClaseStringBuilder.dll
+C:\projects\curso-c-sharp\11-ClaseStringBuilder\11-ClaseStringBuilder\bin\Debug\net8.0\11-ClaseStringBuilder.pdb
+C:\projects\curso-c-sharp\11-ClaseStringBuilder\11-ClaseStringBuilder\obj\Debug\net8.0\11-ClaseStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\11-ClaseStringBuilder\11-ClaseStringBuilder\obj\Debug\net8.0\11-ClaseStringBuilder.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\11-ClaseStringBuilder\11-ClaseStringBuilder\obj\Debug\net8.0\11-ClaseStringBuilder.AssemblyInfo.cs
+C:\projects\curso-c-sharp\11-ClaseStringBuilder\11-ClaseStringBuilder\obj\Debug\net8.0\11-ClaseStringBuilder.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\11-ClaseStringBuilder\11-ClaseStringBuilder\obj\Debug\net8.0\11-ClaseStringBuilder.sourcelink.json
+C:\projects\curso-c-sharp\11-ClaseStringBuilder\11-ClaseStringBuilder\obj\Debug\net8.0\11-ClaseStringBuilder.dll
+C:\projects\curso-c-sharp\11-ClaseStringBuilder\11-ClaseStringBuilder\obj\Debug\net8.0\refint\11-ClaseStringBuilder.dll
+C:\projects\curso-c-sharp\11-ClaseStringBuilder\11-ClaseStringBuilder\obj\Debug\net8.0\11-ClaseStringBuilder.pdb
+C:\projects\curso-c-sharp\11-ClaseStringBuilder\11-ClaseStringBuilder\obj\Debug\net8.0\11-ClaseStringBuilder.genruntimeconfig.cache
+C:\projects\curso-c-sharp\11-ClaseStringBuilder\11-ClaseStringBuilder\obj\Debug\net8.0\ref\11-ClaseStringBuilder.dll
