@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\12.2-LeerMayusculasYMinusculas\12.2-LeerMayusculasYMinusculas\bin\Debug\net8.0\12.2-LeerMayusculasYMinusculas.exe
+C:\projects\curso-c-sharp\12.2-LeerMayusculasYMinusculas\12.2-LeerMayusculasYMinusculas\bin\Debug\net8.0\12.2-LeerMayusculasYMinusculas.deps.json
+C:\projects\curso-c-sharp\12.2-LeerMayusculasYMinusculas\12.2-LeerMayusculasYMinusculas\bin\Debug\net8.0\12.2-LeerMayusculasYMinusculas.runtimeconfig.json
+C:\projects\curso-c-sharp\12.2-LeerMayusculasYMinusculas\12.2-LeerMayusculasYMinusculas\bin\Debug\net8.0\12.2-LeerMayusculasYMinusculas.dll
+C:\projects\curso-c-sharp\12.2-LeerMayusculasYMinusculas\12.2-LeerMayusculasYMinusculas\bin\Debug\net8.0\12.2-LeerMayusculasYMinusculas.pdb
+C:\projects\curso-c-sharp\12.2-LeerMayusculasYMinusculas\12.2-LeerMayusculasYMinusculas\obj\Debug\net8.0\12.2-LeerMayusculasYMinusculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\12.2-LeerMayusculasYMinusculas\12.2-LeerMayusculasYMinusculas\obj\Debug\net8.0\12.2-LeerMayusculasYMinusculas.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\12.2-LeerMayusculasYMinusculas\12.2-LeerMayusculasYMinusculas\obj\Debug\net8.0\12.2-LeerMayusculasYMinusculas.AssemblyInfo.cs
+C:\projects\curso-c-sharp\12.2-LeerMayusculasYMinusculas\12.2-LeerMayusculasYMinusculas\obj\Debug\net8.0\12.2-LeerMayusculasYMinusculas.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\12.2-LeerMayusculasYMinusculas\12.2-LeerMayusculasYMinusculas\obj\Debug\net8.0\12.2-LeerMayusculasYMinusculas.sourcelink.json
+C:\projects\curso-c-sharp\12.2-LeerMayusculasYMinusculas\12.2-LeerMayusculasYMinusculas\obj\Debug\net8.0\12.2-LeerMayusculasYMinusculas.dll
+C:\projects\curso-c-sharp\12.2-LeerMayusculasYMinusculas\12.2-LeerMayusculasYMinusculas\obj\Debug\net8.0\refint\12.2-LeerMayusculasYMinusculas.dll
+C:\projects\curso-c-sharp\12.2-LeerMayusculasYMinusculas\12.2-LeerMayusculasYMinusculas\obj\Debug\net8.0\12.2-LeerMayusculasYMinusculas.pdb
+C:\projects\curso-c-sharp\12.2-LeerMayusculasYMinusculas\12.2-LeerMayusculasYMinusculas\obj\Debug\net8.0\12.2-LeerMayusculasYMinusculas.genruntimeconfig.cache
+C:\projects\curso-c-sharp\12.2-LeerMayusculasYMinusculas\12.2-LeerMayusculasYMinusculas\obj\Debug\net8.0\ref\12.2-LeerMayusculasYMinusculas.dll

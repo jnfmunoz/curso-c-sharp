@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\13-ParametrosDeMetodos\13-ParametrosDeMetodos\bin\Debug\net8.0\13-ParametrosDeMetodos.exe
+C:\projects\curso-c-sharp\13-ParametrosDeMetodos\13-ParametrosDeMetodos\bin\Debug\net8.0\13-ParametrosDeMetodos.deps.json
+C:\projects\curso-c-sharp\13-ParametrosDeMetodos\13-ParametrosDeMetodos\bin\Debug\net8.0\13-ParametrosDeMetodos.runtimeconfig.json
+C:\projects\curso-c-sharp\13-ParametrosDeMetodos\13-ParametrosDeMetodos\bin\Debug\net8.0\13-ParametrosDeMetodos.dll
+C:\projects\curso-c-sharp\13-ParametrosDeMetodos\13-ParametrosDeMetodos\bin\Debug\net8.0\13-ParametrosDeMetodos.pdb
+C:\projects\curso-c-sharp\13-ParametrosDeMetodos\13-ParametrosDeMetodos\obj\Debug\net8.0\13-ParametrosDeMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\13-ParametrosDeMetodos\13-ParametrosDeMetodos\obj\Debug\net8.0\13-ParametrosDeMetodos.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\13-ParametrosDeMetodos\13-ParametrosDeMetodos\obj\Debug\net8.0\13-ParametrosDeMetodos.AssemblyInfo.cs
+C:\projects\curso-c-sharp\13-ParametrosDeMetodos\13-ParametrosDeMetodos\obj\Debug\net8.0\13-ParametrosDeMetodos.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\13-ParametrosDeMetodos\13-ParametrosDeMetodos\obj\Debug\net8.0\13-ParametrosDeMetodos.sourcelink.json
+C:\projects\curso-c-sharp\13-ParametrosDeMetodos\13-ParametrosDeMetodos\obj\Debug\net8.0\13-ParametrosDeMetodos.dll
+C:\projects\curso-c-sharp\13-ParametrosDeMetodos\13-ParametrosDeMetodos\obj\Debug\net8.0\refint\13-ParametrosDeMetodos.dll
+C:\projects\curso-c-sharp\13-ParametrosDeMetodos\13-ParametrosDeMetodos\obj\Debug\net8.0\13-ParametrosDeMetodos.pdb
+C:\projects\curso-c-sharp\13-ParametrosDeMetodos\13-ParametrosDeMetodos\obj\Debug\net8.0\13-ParametrosDeMetodos.genruntimeconfig.cache
+C:\projects\curso-c-sharp\13-ParametrosDeMetodos\13-ParametrosDeMetodos\obj\Debug\net8.0\ref\13-ParametrosDeMetodos.dll
