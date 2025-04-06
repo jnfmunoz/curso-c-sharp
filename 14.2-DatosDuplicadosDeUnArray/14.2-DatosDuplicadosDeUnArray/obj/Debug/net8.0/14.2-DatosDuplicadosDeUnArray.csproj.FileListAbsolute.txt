@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\14.2-DatosDuplicadosDeUnArray\14.2-DatosDuplicadosDeUnArray\bin\Debug\net8.0\14.2-DatosDuplicadosDeUnArray.exe
+C:\projects\curso-c-sharp\14.2-DatosDuplicadosDeUnArray\14.2-DatosDuplicadosDeUnArray\bin\Debug\net8.0\14.2-DatosDuplicadosDeUnArray.deps.json
+C:\projects\curso-c-sharp\14.2-DatosDuplicadosDeUnArray\14.2-DatosDuplicadosDeUnArray\bin\Debug\net8.0\14.2-DatosDuplicadosDeUnArray.runtimeconfig.json
+C:\projects\curso-c-sharp\14.2-DatosDuplicadosDeUnArray\14.2-DatosDuplicadosDeUnArray\bin\Debug\net8.0\14.2-DatosDuplicadosDeUnArray.dll
+C:\projects\curso-c-sharp\14.2-DatosDuplicadosDeUnArray\14.2-DatosDuplicadosDeUnArray\bin\Debug\net8.0\14.2-DatosDuplicadosDeUnArray.pdb
+C:\projects\curso-c-sharp\14.2-DatosDuplicadosDeUnArray\14.2-DatosDuplicadosDeUnArray\obj\Debug\net8.0\14.2-DatosDuplicadosDeUnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\14.2-DatosDuplicadosDeUnArray\14.2-DatosDuplicadosDeUnArray\obj\Debug\net8.0\14.2-DatosDuplicadosDeUnArray.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\14.2-DatosDuplicadosDeUnArray\14.2-DatosDuplicadosDeUnArray\obj\Debug\net8.0\14.2-DatosDuplicadosDeUnArray.AssemblyInfo.cs
+C:\projects\curso-c-sharp\14.2-DatosDuplicadosDeUnArray\14.2-DatosDuplicadosDeUnArray\obj\Debug\net8.0\14.2-DatosDuplicadosDeUnArray.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\14.2-DatosDuplicadosDeUnArray\14.2-DatosDuplicadosDeUnArray\obj\Debug\net8.0\14.2-DatosDuplicadosDeUnArray.sourcelink.json
+C:\projects\curso-c-sharp\14.2-DatosDuplicadosDeUnArray\14.2-DatosDuplicadosDeUnArray\obj\Debug\net8.0\14.2-DatosDuplicadosDeUnArray.dll
+C:\projects\curso-c-sharp\14.2-DatosDuplicadosDeUnArray\14.2-DatosDuplicadosDeUnArray\obj\Debug\net8.0\refint\14.2-DatosDuplicadosDeUnArray.dll
+C:\projects\curso-c-sharp\14.2-DatosDuplicadosDeUnArray\14.2-DatosDuplicadosDeUnArray\obj\Debug\net8.0\14.2-DatosDuplicadosDeUnArray.pdb
+C:\projects\curso-c-sharp\14.2-DatosDuplicadosDeUnArray\14.2-DatosDuplicadosDeUnArray\obj\Debug\net8.0\14.2-DatosDuplicadosDeUnArray.genruntimeconfig.cache
+C:\projects\curso-c-sharp\14.2-DatosDuplicadosDeUnArray\14.2-DatosDuplicadosDeUnArray\obj\Debug\net8.0\ref\14.2-DatosDuplicadosDeUnArray.dll

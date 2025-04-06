@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\curso-c-sharp\\14.2-DatosDuplicadosDeUnArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6D6E5F-4155-4232-99CD-35D68D6A986E}|14.2-DatosDuplicadosDeUnArray\\14.2-DatosDuplicadosDeUnArray.csproj|c:\\projects\\curso-c-sharp\\14.2-datosduplicadosdeunarray\\14.2-datosduplicadosdeunarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6D6E5F-4155-4232-99CD-35D68D6A986E}|14.2-DatosDuplicadosDeUnArray\\14.2-DatosDuplicadosDeUnArray.csproj|solutionrelative:14.2-datosduplicadosdeunarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\14.2-DatosDuplicadosDeUnArray\\14.2-DatosDuplicadosDeUnArray\\Program.cs",
+              "RelativeDocumentMoniker": "14.2-DatosDuplicadosDeUnArray\\Program.cs",
+              "ToolTip": "C:\\projects\\curso-c-sharp\\14.2-DatosDuplicadosDeUnArray\\14.2-DatosDuplicadosDeUnArray\\Program.cs",
+              "RelativeToolTip": "14.2-DatosDuplicadosDeUnArray\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T20:45:50.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

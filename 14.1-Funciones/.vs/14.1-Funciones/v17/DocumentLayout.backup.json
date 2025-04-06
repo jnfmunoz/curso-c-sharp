@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\curso-c-sharp\\14.1-Funciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCE75CB-D6FA-42E6-B599-469243EA189A}|14.1-Funciones\\14.1-Funciones.csproj|c:\\projects\\curso-c-sharp\\14.1-funciones\\14.1-funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCE75CB-D6FA-42E6-B599-469243EA189A}|14.1-Funciones\\14.1-Funciones.csproj|solutionrelative:14.1-funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\14.1-Funciones\\14.1-Funciones\\Program.cs",
+              "RelativeDocumentMoniker": "14.1-Funciones\\Program.cs",
+              "ToolTip": "C:\\projects\\curso-c-sharp\\14.1-Funciones\\14.1-Funciones\\Program.cs",
+              "RelativeToolTip": "14.1-Funciones\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T20:44:29.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

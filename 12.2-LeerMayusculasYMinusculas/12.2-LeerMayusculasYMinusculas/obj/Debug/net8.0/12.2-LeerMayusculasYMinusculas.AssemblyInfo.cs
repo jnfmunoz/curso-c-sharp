@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("12.2-LeerMayusculasYMinusculas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea79d87d3aa88ce4706e55fffd317e52993c3f71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a199f21ab0a245c866d0f3cf08c6566864456b8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("12.2-LeerMayusculasYMinusculas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("12.2-LeerMayusculasYMinusculas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

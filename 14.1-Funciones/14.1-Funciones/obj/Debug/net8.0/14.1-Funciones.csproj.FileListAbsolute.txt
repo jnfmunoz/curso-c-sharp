@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\14.1-Funciones\14.1-Funciones\bin\Debug\net8.0\14.1-Funciones.exe
+C:\projects\curso-c-sharp\14.1-Funciones\14.1-Funciones\bin\Debug\net8.0\14.1-Funciones.deps.json
+C:\projects\curso-c-sharp\14.1-Funciones\14.1-Funciones\bin\Debug\net8.0\14.1-Funciones.runtimeconfig.json
+C:\projects\curso-c-sharp\14.1-Funciones\14.1-Funciones\bin\Debug\net8.0\14.1-Funciones.dll
+C:\projects\curso-c-sharp\14.1-Funciones\14.1-Funciones\bin\Debug\net8.0\14.1-Funciones.pdb
+C:\projects\curso-c-sharp\14.1-Funciones\14.1-Funciones\obj\Debug\net8.0\14.1-Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\14.1-Funciones\14.1-Funciones\obj\Debug\net8.0\14.1-Funciones.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\14.1-Funciones\14.1-Funciones\obj\Debug\net8.0\14.1-Funciones.AssemblyInfo.cs
+C:\projects\curso-c-sharp\14.1-Funciones\14.1-Funciones\obj\Debug\net8.0\14.1-Funciones.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\14.1-Funciones\14.1-Funciones\obj\Debug\net8.0\14.1-Funciones.sourcelink.json
+C:\projects\curso-c-sharp\14.1-Funciones\14.1-Funciones\obj\Debug\net8.0\14.1-Funciones.dll
+C:\projects\curso-c-sharp\14.1-Funciones\14.1-Funciones\obj\Debug\net8.0\refint\14.1-Funciones.dll
+C:\projects\curso-c-sharp\14.1-Funciones\14.1-Funciones\obj\Debug\net8.0\14.1-Funciones.pdb
+C:\projects\curso-c-sharp\14.1-Funciones\14.1-Funciones\obj\Debug\net8.0\14.1-Funciones.genruntimeconfig.cache
+C:\projects\curso-c-sharp\14.1-Funciones\14.1-Funciones\obj\Debug\net8.0\ref\14.1-Funciones.dll
