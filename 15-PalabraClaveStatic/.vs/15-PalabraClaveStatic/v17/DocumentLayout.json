@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\curso-c-sharp\\15-PalabraClaveStatic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0148FD-BC2D-44C6-8A42-2AAA779752EA}|15-PalabraClaveStatic\\15-PalabraClaveStatic.csproj|c:\\projects\\curso-c-sharp\\15-palabraclavestatic\\15-palabraclavestatic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0148FD-BC2D-44C6-8A42-2AAA779752EA}|15-PalabraClaveStatic\\15-PalabraClaveStatic.csproj|solutionrelative:15-palabraclavestatic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\15-PalabraClaveStatic\\15-PalabraClaveStatic\\Program.cs",
+              "RelativeDocumentMoniker": "15-PalabraClaveStatic\\Program.cs",
+              "ToolTip": "C:\\projects\\curso-c-sharp\\15-PalabraClaveStatic\\15-PalabraClaveStatic\\Program.cs",
+              "RelativeToolTip": "15-PalabraClaveStatic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:15:04.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
