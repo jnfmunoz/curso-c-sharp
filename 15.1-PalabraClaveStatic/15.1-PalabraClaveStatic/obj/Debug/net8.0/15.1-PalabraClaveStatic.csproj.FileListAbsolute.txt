@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\15.1-PalabraClaveStatic\15.1-PalabraClaveStatic\obj\Debug\net8.0\15.1-PalabraClaveStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\15.1-PalabraClaveStatic\15.1-PalabraClaveStatic\obj\Debug\net8.0\15.1-PalabraClaveStatic.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\15.1-PalabraClaveStatic\15.1-PalabraClaveStatic\obj\Debug\net8.0\15.1-PalabraClaveStatic.AssemblyInfo.cs
+C:\projects\curso-c-sharp\15.1-PalabraClaveStatic\15.1-PalabraClaveStatic\obj\Debug\net8.0\15.1-PalabraClaveStatic.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\15.1-PalabraClaveStatic\15.1-PalabraClaveStatic\obj\Debug\net8.0\15.1-PalabraClaveStatic.sourcelink.json
+C:\projects\curso-c-sharp\15.1-PalabraClaveStatic\15.1-PalabraClaveStatic\bin\Debug\net8.0\15.1-PalabraClaveStatic.exe
+C:\projects\curso-c-sharp\15.1-PalabraClaveStatic\15.1-PalabraClaveStatic\bin\Debug\net8.0\15.1-PalabraClaveStatic.deps.json
+C:\projects\curso-c-sharp\15.1-PalabraClaveStatic\15.1-PalabraClaveStatic\bin\Debug\net8.0\15.1-PalabraClaveStatic.runtimeconfig.json
+C:\projects\curso-c-sharp\15.1-PalabraClaveStatic\15.1-PalabraClaveStatic\bin\Debug\net8.0\15.1-PalabraClaveStatic.dll
+C:\projects\curso-c-sharp\15.1-PalabraClaveStatic\15.1-PalabraClaveStatic\bin\Debug\net8.0\15.1-PalabraClaveStatic.pdb
+C:\projects\curso-c-sharp\15.1-PalabraClaveStatic\15.1-PalabraClaveStatic\obj\Debug\net8.0\15.1-PalabraClaveStatic.dll
+C:\projects\curso-c-sharp\15.1-PalabraClaveStatic\15.1-PalabraClaveStatic\obj\Debug\net8.0\refint\15.1-PalabraClaveStatic.dll
+C:\projects\curso-c-sharp\15.1-PalabraClaveStatic\15.1-PalabraClaveStatic\obj\Debug\net8.0\15.1-PalabraClaveStatic.pdb
+C:\projects\curso-c-sharp\15.1-PalabraClaveStatic\15.1-PalabraClaveStatic\obj\Debug\net8.0\15.1-PalabraClaveStatic.genruntimeconfig.cache
+C:\projects\curso-c-sharp\15.1-PalabraClaveStatic\15.1-PalabraClaveStatic\obj\Debug\net8.0\ref\15.1-PalabraClaveStatic.dll
