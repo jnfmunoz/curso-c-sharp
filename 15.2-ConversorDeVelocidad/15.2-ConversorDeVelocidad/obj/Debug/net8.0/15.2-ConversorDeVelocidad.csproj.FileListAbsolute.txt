@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\15.2-ConversorDeVelocidad\15.2-ConversorDeVelocidad\bin\Debug\net8.0\15.2-ConversorDeVelocidad.exe
+C:\projects\curso-c-sharp\15.2-ConversorDeVelocidad\15.2-ConversorDeVelocidad\bin\Debug\net8.0\15.2-ConversorDeVelocidad.deps.json
+C:\projects\curso-c-sharp\15.2-ConversorDeVelocidad\15.2-ConversorDeVelocidad\bin\Debug\net8.0\15.2-ConversorDeVelocidad.runtimeconfig.json
+C:\projects\curso-c-sharp\15.2-ConversorDeVelocidad\15.2-ConversorDeVelocidad\bin\Debug\net8.0\15.2-ConversorDeVelocidad.dll
+C:\projects\curso-c-sharp\15.2-ConversorDeVelocidad\15.2-ConversorDeVelocidad\bin\Debug\net8.0\15.2-ConversorDeVelocidad.pdb
+C:\projects\curso-c-sharp\15.2-ConversorDeVelocidad\15.2-ConversorDeVelocidad\obj\Debug\net8.0\15.2-ConversorDeVelocidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\15.2-ConversorDeVelocidad\15.2-ConversorDeVelocidad\obj\Debug\net8.0\15.2-ConversorDeVelocidad.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\15.2-ConversorDeVelocidad\15.2-ConversorDeVelocidad\obj\Debug\net8.0\15.2-ConversorDeVelocidad.AssemblyInfo.cs
+C:\projects\curso-c-sharp\15.2-ConversorDeVelocidad\15.2-ConversorDeVelocidad\obj\Debug\net8.0\15.2-ConversorDeVelocidad.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\15.2-ConversorDeVelocidad\15.2-ConversorDeVelocidad\obj\Debug\net8.0\15.2-ConversorDeVelocidad.sourcelink.json
+C:\projects\curso-c-sharp\15.2-ConversorDeVelocidad\15.2-ConversorDeVelocidad\obj\Debug\net8.0\15.2-ConversorDeVelocidad.dll
+C:\projects\curso-c-sharp\15.2-ConversorDeVelocidad\15.2-ConversorDeVelocidad\obj\Debug\net8.0\refint\15.2-ConversorDeVelocidad.dll
+C:\projects\curso-c-sharp\15.2-ConversorDeVelocidad\15.2-ConversorDeVelocidad\obj\Debug\net8.0\15.2-ConversorDeVelocidad.pdb
+C:\projects\curso-c-sharp\15.2-ConversorDeVelocidad\15.2-ConversorDeVelocidad\obj\Debug\net8.0\15.2-ConversorDeVelocidad.genruntimeconfig.cache
+C:\projects\curso-c-sharp\15.2-ConversorDeVelocidad\15.2-ConversorDeVelocidad\obj\Debug\net8.0\ref\15.2-ConversorDeVelocidad.dll
