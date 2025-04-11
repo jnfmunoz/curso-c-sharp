@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\16-ArgumentosConNombreYOpcionales\16-ArgumentosConNombreYOpcionales\obj\Debug\net8.0\16-ArgumentosConNombreYOpcionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\16-ArgumentosConNombreYOpcionales\16-ArgumentosConNombreYOpcionales\obj\Debug\net8.0\16-ArgumentosConNombreYOpcionales.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\16-ArgumentosConNombreYOpcionales\16-ArgumentosConNombreYOpcionales\obj\Debug\net8.0\16-ArgumentosConNombreYOpcionales.AssemblyInfo.cs
+C:\projects\curso-c-sharp\16-ArgumentosConNombreYOpcionales\16-ArgumentosConNombreYOpcionales\obj\Debug\net8.0\16-ArgumentosConNombreYOpcionales.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\16-ArgumentosConNombreYOpcionales\16-ArgumentosConNombreYOpcionales\obj\Debug\net8.0\16-ArgumentosConNombreYOpcionales.sourcelink.json
+C:\projects\curso-c-sharp\16-ArgumentosConNombreYOpcionales\16-ArgumentosConNombreYOpcionales\bin\Debug\net8.0\16-ArgumentosConNombreYOpcionales.exe
+C:\projects\curso-c-sharp\16-ArgumentosConNombreYOpcionales\16-ArgumentosConNombreYOpcionales\bin\Debug\net8.0\16-ArgumentosConNombreYOpcionales.deps.json
+C:\projects\curso-c-sharp\16-ArgumentosConNombreYOpcionales\16-ArgumentosConNombreYOpcionales\bin\Debug\net8.0\16-ArgumentosConNombreYOpcionales.runtimeconfig.json
+C:\projects\curso-c-sharp\16-ArgumentosConNombreYOpcionales\16-ArgumentosConNombreYOpcionales\bin\Debug\net8.0\16-ArgumentosConNombreYOpcionales.dll
+C:\projects\curso-c-sharp\16-ArgumentosConNombreYOpcionales\16-ArgumentosConNombreYOpcionales\bin\Debug\net8.0\16-ArgumentosConNombreYOpcionales.pdb
+C:\projects\curso-c-sharp\16-ArgumentosConNombreYOpcionales\16-ArgumentosConNombreYOpcionales\obj\Debug\net8.0\16-ArgumentosConNombreYOpcionales.dll
+C:\projects\curso-c-sharp\16-ArgumentosConNombreYOpcionales\16-ArgumentosConNombreYOpcionales\obj\Debug\net8.0\refint\16-ArgumentosConNombreYOpcionales.dll
+C:\projects\curso-c-sharp\16-ArgumentosConNombreYOpcionales\16-ArgumentosConNombreYOpcionales\obj\Debug\net8.0\16-ArgumentosConNombreYOpcionales.pdb
+C:\projects\curso-c-sharp\16-ArgumentosConNombreYOpcionales\16-ArgumentosConNombreYOpcionales\obj\Debug\net8.0\16-ArgumentosConNombreYOpcionales.genruntimeconfig.cache
+C:\projects\curso-c-sharp\16-ArgumentosConNombreYOpcionales\16-ArgumentosConNombreYOpcionales\obj\Debug\net8.0\ref\16-ArgumentosConNombreYOpcionales.dll
