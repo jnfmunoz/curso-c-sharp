@@ -3,11 +3,11 @@
 class Program
 {
     readonly int valor; // readonly int valor = 23;
-    const int VALOR_2 = 98; 
+    const int VALOR = 98; // en may para identificar que es una constante
 
     public Program()
     {
-        valor = 10;
+        valor = 10; // la variable readonly la podemos sobrescribir en el constructor
     }
 
     static void Main()
@@ -18,7 +18,7 @@ class Program
         //data.Metodo(cantidad: 32, curso: "C#");
         //data.Metodo(cantidad: null, curso: null);        
 
-        Console.WriteLine($"{ data.valor }, { VALOR_2}");
+        Console.WriteLine($"{ data.valor }, { VALOR }");
         Console.ReadLine();
     }
 

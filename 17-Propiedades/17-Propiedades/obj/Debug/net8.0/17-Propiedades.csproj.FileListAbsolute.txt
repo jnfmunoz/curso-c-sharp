@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\17-Propiedades\17-Propiedades\bin\Debug\net8.0\17-Propiedades.exe
+C:\projects\curso-c-sharp\17-Propiedades\17-Propiedades\bin\Debug\net8.0\17-Propiedades.deps.json
+C:\projects\curso-c-sharp\17-Propiedades\17-Propiedades\bin\Debug\net8.0\17-Propiedades.runtimeconfig.json
+C:\projects\curso-c-sharp\17-Propiedades\17-Propiedades\bin\Debug\net8.0\17-Propiedades.dll
+C:\projects\curso-c-sharp\17-Propiedades\17-Propiedades\bin\Debug\net8.0\17-Propiedades.pdb
+C:\projects\curso-c-sharp\17-Propiedades\17-Propiedades\obj\Debug\net8.0\17-Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\17-Propiedades\17-Propiedades\obj\Debug\net8.0\17-Propiedades.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\17-Propiedades\17-Propiedades\obj\Debug\net8.0\17-Propiedades.AssemblyInfo.cs
+C:\projects\curso-c-sharp\17-Propiedades\17-Propiedades\obj\Debug\net8.0\17-Propiedades.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\17-Propiedades\17-Propiedades\obj\Debug\net8.0\17-Propiedades.sourcelink.json
+C:\projects\curso-c-sharp\17-Propiedades\17-Propiedades\obj\Debug\net8.0\17-Propiedades.dll
+C:\projects\curso-c-sharp\17-Propiedades\17-Propiedades\obj\Debug\net8.0\refint\17-Propiedades.dll
+C:\projects\curso-c-sharp\17-Propiedades\17-Propiedades\obj\Debug\net8.0\17-Propiedades.pdb
+C:\projects\curso-c-sharp\17-Propiedades\17-Propiedades\obj\Debug\net8.0\17-Propiedades.genruntimeconfig.cache
+C:\projects\curso-c-sharp\17-Propiedades\17-Propiedades\obj\Debug\net8.0\ref\17-Propiedades.dll
