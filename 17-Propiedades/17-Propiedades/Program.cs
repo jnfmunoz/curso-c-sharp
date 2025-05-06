@@ -10,7 +10,7 @@ class Program
         //var nombre = data.Nombre;
         data.Nombre = "Francisco";
 
-        //Console.WriteLine(nombre);
-        //Console.ReadLine();
+        Console.WriteLine(data.Nombre);
+        Console.ReadLine();
     }
 }

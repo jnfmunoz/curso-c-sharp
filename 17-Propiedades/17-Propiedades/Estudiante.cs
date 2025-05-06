@@ -8,12 +8,20 @@ namespace _17_Propiedades
 {
     public class Estudiante
     {
+        /*
         private String nombre; 
 
         //public String nombre { get; set; } = "Juan";
+
         public String Nombre
         {
-            set { nombre = value; }
-        }
+            get { return nombre; } // get => nombre;
+            set { nombre = value; } // set => nombre = value;
+        } */
+
+        public int Edad {  get; set; }
+        public String Nombre {  get; set; }
+        public double calificacion { get; set; }
+
     }
 }
