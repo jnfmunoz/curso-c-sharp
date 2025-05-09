@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("16-ArgumentosConNombreYOpcionales")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e95d6f5e92bcde8458011887e151813a97d07d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1121a2a101975ad74146d4a4890aa1e78dcda422")]
 [assembly: System.Reflection.AssemblyProductAttribute("16-ArgumentosConNombreYOpcionales")]
 [assembly: System.Reflection.AssemblyTitleAttribute("16-ArgumentosConNombreYOpcionales")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

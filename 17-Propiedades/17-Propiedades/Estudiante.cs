@@ -21,7 +21,7 @@ namespace _17_Propiedades
 
         public int Edad {  get; set; }
         public String Nombre {  get; set; }
-        public double calificacion { get; set; }
+        public double Calificacion { get; set; }
 
     }
 }

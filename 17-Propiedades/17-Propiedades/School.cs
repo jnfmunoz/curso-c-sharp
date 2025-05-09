@@ -19,14 +19,30 @@ public class School
 		bool encontrado = false;
 		int i = 0;
 
-		while(encontrado == false && i < students.Count)
+		while (encontrado == false && i < students.Count)
 		{
-			if (students[i].Nombre.Equals(name)) { 
+			if (students[i].Nombre.Equals(name))
+			{
 				encontrado = true;
-			} else
+			}
+			else
 			{
 				i++;
 			}
+		}
+
+		if(encontrado)
+		{
+			Console.WriteLine("Nombre: " + students[i].Nombre + "\n"
+			+ "Edad: " + students[i].Edad + "\n" 
+			+ "Calificacion: " + students[i].Calificacion);
+			return false;
+		}
+		else
+		{
+			Console.WriteLine("Estudiante no encontrado, intente nuevamente");
+			return true;
+		}
 
 	}
 }

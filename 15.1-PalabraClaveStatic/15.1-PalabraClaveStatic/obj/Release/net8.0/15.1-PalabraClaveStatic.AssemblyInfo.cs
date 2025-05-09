@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("15.1-PalabraClaveStatic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcdcf6200c28932324c4f0c107e23c7119212b5e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1121a2a101975ad74146d4a4890aa1e78dcda422")]
 [assembly: System.Reflection.AssemblyProductAttribute("15.1-PalabraClaveStatic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("15.1-PalabraClaveStatic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
