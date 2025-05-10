@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("17-Propiedades")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("18-ClaseGenericaList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06e0efdbf9b2554a27e63d417a5ea6ab792693c9")]
-[assembly: System.Reflection.AssemblyProductAttribute("17-Propiedades")]
-[assembly: System.Reflection.AssemblyTitleAttribute("17-Propiedades")]
+[assembly: System.Reflection.AssemblyProductAttribute("18-ClaseGenericaList")]
+[assembly: System.Reflection.AssemblyTitleAttribute("18-ClaseGenericaList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

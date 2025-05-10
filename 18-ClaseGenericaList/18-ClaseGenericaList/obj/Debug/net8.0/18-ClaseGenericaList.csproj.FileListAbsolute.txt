@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\18-ClaseGenericaList\18-ClaseGenericaList\bin\Debug\net8.0\18-ClaseGenericaList.exe
+C:\projects\curso-c-sharp\18-ClaseGenericaList\18-ClaseGenericaList\bin\Debug\net8.0\18-ClaseGenericaList.deps.json
+C:\projects\curso-c-sharp\18-ClaseGenericaList\18-ClaseGenericaList\bin\Debug\net8.0\18-ClaseGenericaList.runtimeconfig.json
+C:\projects\curso-c-sharp\18-ClaseGenericaList\18-ClaseGenericaList\bin\Debug\net8.0\18-ClaseGenericaList.dll
+C:\projects\curso-c-sharp\18-ClaseGenericaList\18-ClaseGenericaList\bin\Debug\net8.0\18-ClaseGenericaList.pdb
+C:\projects\curso-c-sharp\18-ClaseGenericaList\18-ClaseGenericaList\obj\Debug\net8.0\18-ClaseGenericaList.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\18-ClaseGenericaList\18-ClaseGenericaList\obj\Debug\net8.0\18-ClaseGenericaList.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\18-ClaseGenericaList\18-ClaseGenericaList\obj\Debug\net8.0\18-ClaseGenericaList.AssemblyInfo.cs
+C:\projects\curso-c-sharp\18-ClaseGenericaList\18-ClaseGenericaList\obj\Debug\net8.0\18-ClaseGenericaList.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\18-ClaseGenericaList\18-ClaseGenericaList\obj\Debug\net8.0\18-ClaseGenericaList.sourcelink.json
+C:\projects\curso-c-sharp\18-ClaseGenericaList\18-ClaseGenericaList\obj\Debug\net8.0\18-ClaseGenericaList.dll
+C:\projects\curso-c-sharp\18-ClaseGenericaList\18-ClaseGenericaList\obj\Debug\net8.0\refint\18-ClaseGenericaList.dll
+C:\projects\curso-c-sharp\18-ClaseGenericaList\18-ClaseGenericaList\obj\Debug\net8.0\18-ClaseGenericaList.pdb
+C:\projects\curso-c-sharp\18-ClaseGenericaList\18-ClaseGenericaList\obj\Debug\net8.0\18-ClaseGenericaList.genruntimeconfig.cache
+C:\projects\curso-c-sharp\18-ClaseGenericaList\18-ClaseGenericaList\obj\Debug\net8.0\ref\18-ClaseGenericaList.dll
