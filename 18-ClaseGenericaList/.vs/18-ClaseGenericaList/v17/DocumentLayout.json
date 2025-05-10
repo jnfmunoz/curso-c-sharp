@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\projects\\curso-c-sharp\\18-ClaseGenericaList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD46584A-51B5-4DA5-A21B-2C0150DC240D}|18-ClaseGenericaList\\18-ClaseGenericaList.csproj|c:\\projects\\curso-c-sharp\\18-clasegenericalist\\18-clasegenericalist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD46584A-51B5-4DA5-A21B-2C0150DC240D}|18-ClaseGenericaList\\18-ClaseGenericaList.csproj|solutionrelative:18-clasegenericalist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\18-ClaseGenericaList\\18-ClaseGenericaList\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:18-ClaseGenericaList\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "18-ClaseGenericaList\\Program.cs",
               "ToolTip": "C:\\projects\\curso-c-sharp\\18-ClaseGenericaList\\18-ClaseGenericaList\\Program.cs",
               "RelativeToolTip": "18-ClaseGenericaList\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T03:23:07.978Z",
               "EditorCaption": ""
