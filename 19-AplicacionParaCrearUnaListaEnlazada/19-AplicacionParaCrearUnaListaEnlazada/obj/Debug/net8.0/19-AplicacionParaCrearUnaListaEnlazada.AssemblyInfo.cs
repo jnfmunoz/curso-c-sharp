@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("17-Propiedades")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("19-AplicacionParaCrearUnaListaEnlazada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c37d7aaf3c4646c8090ef8e07640004068b35c3")]
-[assembly: System.Reflection.AssemblyProductAttribute("17-Propiedades")]
-[assembly: System.Reflection.AssemblyTitleAttribute("17-Propiedades")]
+[assembly: System.Reflection.AssemblyProductAttribute("19-AplicacionParaCrearUnaListaEnlazada")]
+[assembly: System.Reflection.AssemblyTitleAttribute("19-AplicacionParaCrearUnaListaEnlazada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
