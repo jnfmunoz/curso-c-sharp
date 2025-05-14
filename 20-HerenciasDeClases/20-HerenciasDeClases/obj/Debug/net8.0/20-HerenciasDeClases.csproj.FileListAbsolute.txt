@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\20-HerenciasDeClases\20-HerenciasDeClases\bin\Debug\net8.0\20-HerenciasDeClases.exe
+C:\projects\curso-c-sharp\20-HerenciasDeClases\20-HerenciasDeClases\bin\Debug\net8.0\20-HerenciasDeClases.deps.json
+C:\projects\curso-c-sharp\20-HerenciasDeClases\20-HerenciasDeClases\bin\Debug\net8.0\20-HerenciasDeClases.runtimeconfig.json
+C:\projects\curso-c-sharp\20-HerenciasDeClases\20-HerenciasDeClases\bin\Debug\net8.0\20-HerenciasDeClases.dll
+C:\projects\curso-c-sharp\20-HerenciasDeClases\20-HerenciasDeClases\bin\Debug\net8.0\20-HerenciasDeClases.pdb
+C:\projects\curso-c-sharp\20-HerenciasDeClases\20-HerenciasDeClases\obj\Debug\net8.0\20-HerenciasDeClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\20-HerenciasDeClases\20-HerenciasDeClases\obj\Debug\net8.0\20-HerenciasDeClases.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\20-HerenciasDeClases\20-HerenciasDeClases\obj\Debug\net8.0\20-HerenciasDeClases.AssemblyInfo.cs
+C:\projects\curso-c-sharp\20-HerenciasDeClases\20-HerenciasDeClases\obj\Debug\net8.0\20-HerenciasDeClases.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\20-HerenciasDeClases\20-HerenciasDeClases\obj\Debug\net8.0\20-HerenciasDeClases.sourcelink.json
+C:\projects\curso-c-sharp\20-HerenciasDeClases\20-HerenciasDeClases\obj\Debug\net8.0\20-HerenciasDeClases.dll
+C:\projects\curso-c-sharp\20-HerenciasDeClases\20-HerenciasDeClases\obj\Debug\net8.0\refint\20-HerenciasDeClases.dll
+C:\projects\curso-c-sharp\20-HerenciasDeClases\20-HerenciasDeClases\obj\Debug\net8.0\20-HerenciasDeClases.pdb
+C:\projects\curso-c-sharp\20-HerenciasDeClases\20-HerenciasDeClases\obj\Debug\net8.0\20-HerenciasDeClases.genruntimeconfig.cache
+C:\projects\curso-c-sharp\20-HerenciasDeClases\20-HerenciasDeClases\obj\Debug\net8.0\ref\20-HerenciasDeClases.dll

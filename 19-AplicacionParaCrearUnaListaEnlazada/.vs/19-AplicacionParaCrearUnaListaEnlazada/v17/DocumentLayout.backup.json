@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\projects\\curso-c-sharp\\19-AplicacionParaCrearUnaListaEnlazada\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99E883E4-9819-4748-9C02-F022B14C6CA2}|19-AplicacionParaCrearUnaListaEnlazada\\19-AplicacionParaCrearUnaListaEnlazada.csproj|c:\\projects\\curso-c-sharp\\19-aplicacionparacrearunalistaenlazada\\19-aplicacionparacrearunalistaenlazada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99E883E4-9819-4748-9C02-F022B14C6CA2}|19-AplicacionParaCrearUnaListaEnlazada\\19-AplicacionParaCrearUnaListaEnlazada.csproj|solutionrelative:19-aplicacionparacrearunalistaenlazada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\19-AplicacionParaCrearUnaListaEnlazada\\19-AplicacionParaCrearUnaListaEnlazada\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:19-AplicacionParaCrearUnaListaEnlazada\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99E883E4-9819-4748-9C02-F022B14C6CA2}|19-AplicacionParaCrearUnaListaEnlazada\\19-AplicacionParaCrearUnaListaEnlazada.csproj|c:\\projects\\curso-c-sharp\\19-aplicacionparacrearunalistaenlazada\\19-aplicacionparacrearunalistaenlazada\\listanodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99E883E4-9819-4748-9C02-F022B14C6CA2}|19-AplicacionParaCrearUnaListaEnlazada\\19-AplicacionParaCrearUnaListaEnlazada.csproj|solutionrelative:19-aplicacionparacrearunalistaenlazada\\listanodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\19-AplicacionParaCrearUnaListaEnlazada\\19-AplicacionParaCrearUnaListaEnlazada\\Nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:19-AplicacionParaCrearUnaListaEnlazada\\Nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99E883E4-9819-4748-9C02-F022B14C6CA2}|19-AplicacionParaCrearUnaListaEnlazada\\19-AplicacionParaCrearUnaListaEnlazada.csproj|c:\\projects\\curso-c-sharp\\19-aplicacionparacrearunalistaenlazada\\19-aplicacionparacrearunalistaenlazada\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99E883E4-9819-4748-9C02-F022B14C6CA2}|19-AplicacionParaCrearUnaListaEnlazada\\19-AplicacionParaCrearUnaListaEnlazada.csproj|solutionrelative:19-aplicacionparacrearunalistaenlazada\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\19-AplicacionParaCrearUnaListaEnlazada\\19-AplicacionParaCrearUnaListaEnlazada\\ListaNodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:19-AplicacionParaCrearUnaListaEnlazada\\ListaNodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,20 +26,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ListaNodo.cs",
               "DocumentMoniker": "C:\\projects\\curso-c-sharp\\19-AplicacionParaCrearUnaListaEnlazada\\19-AplicacionParaCrearUnaListaEnlazada\\ListaNodo.cs",
               "RelativeDocumentMoniker": "19-AplicacionParaCrearUnaListaEnlazada\\ListaNodo.cs",
               "ToolTip": "C:\\projects\\curso-c-sharp\\19-AplicacionParaCrearUnaListaEnlazada\\19-AplicacionParaCrearUnaListaEnlazada\\ListaNodo.cs",
               "RelativeToolTip": "19-AplicacionParaCrearUnaListaEnlazada\\ListaNodo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwA0AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAAKQAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T01:53:43.259Z",
+              "WhenOpened": "2025-05-13T15:26:06.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Nodo.cs",
               "DocumentMoniker": "C:\\projects\\curso-c-sharp\\19-AplicacionParaCrearUnaListaEnlazada\\19-AplicacionParaCrearUnaListaEnlazada\\Nodo.cs",
               "RelativeDocumentMoniker": "19-AplicacionParaCrearUnaListaEnlazada\\Nodo.cs",
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "19-AplicacionParaCrearUnaListaEnlazada\\Program.cs",
               "ToolTip": "C:\\projects\\curso-c-sharp\\19-AplicacionParaCrearUnaListaEnlazada\\19-AplicacionParaCrearUnaListaEnlazada\\Program.cs",
               "RelativeToolTip": "19-AplicacionParaCrearUnaListaEnlazada\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswA8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T19:40:52.912Z",
               "EditorCaption": ""

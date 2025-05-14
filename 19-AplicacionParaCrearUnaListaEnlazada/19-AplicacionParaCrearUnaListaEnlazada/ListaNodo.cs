@@ -26,12 +26,12 @@ namespace _19_AplicacionParaCrearUnaListaEnlazada
             {
                 primero = nuevo;
                 nuevo.siguiente = null;
-            } 
+            }
             else
             {
                 valor1 = primero;
-                
-                while(valor1 != null)
+
+                while (valor1 != null)
                 {
                     valor2 = valor1.siguiente;
                     // condición que verifica si el número entrante debe ir primero
@@ -63,11 +63,12 @@ namespace _19_AplicacionParaCrearUnaListaEnlazada
                             {
                                 valor1 = valor1.siguiente;
                             }
-                            
+
                         }
                     }
                 }
-            }        
+            }
+            size++;
         }
 
         public void ListaVacia()
@@ -80,6 +81,101 @@ namespace _19_AplicacionParaCrearUnaListaEnlazada
             {
                 Console.WriteLine("La lista contiene datos");
             }
+        }
+
+        public void Listar()
+        {
+            Nodo actual = primero;
+            while (actual != null)
+            {
+                Console.Write($"[{actual.dato}]->");
+                actual = actual.siguiente;
+
+            }
+        }
+
+        public void DeletePrimero()
+        {
+            primero = primero.siguiente; // Elimina el primer nodo
+
+        }
+
+        public void DeleteUltimo()
+        {
+            Nodo anterior = primero;
+            Nodo actual = primero;
+
+            while (actual.siguiente != null)
+            {
+                anterior = actual;
+                actual = actual.siguiente;
+            }
+
+            anterior.siguiente = null;
+        }
+
+        public void DeletePosicionNodo(int p)
+        {
+            Nodo anterior = primero;
+            Nodo actual = primero;
+            int dato = 0;
+            if (p > 0)
+            {
+                while(dato != p && actual.siguiente != null)
+                {
+                    anterior = actual;
+                    actual = actual.siguiente;
+                    dato++;
+                }
+
+                anterior.siguiente = actual.siguiente;
+
+            }
+        }
+
+        public Nodo Buscar(int n)
+        {
+            Nodo p = primero;
+            if (p == null)
+            {
+                Console.WriteLine("La lista no contiene datos");
+            }
+            else
+            {
+                while (p.siguiente != null || p.siguiente == null)
+                {
+                    if (p.dato == n)
+                    {                       
+                        return p;
+                    }
+                    else
+                    {
+                        if(p.siguiente == null)
+                        {
+                            return null;
+                        }
+                    }
+
+                    p = p.siguiente;
+                }
+            }
+            return null;
+        }
+            
+        public void Sustituir(int orig, int nuevo) // valor, nuevo valor
+        {
+            Nodo pos = Buscar(orig);
+
+            if (pos != null || pos == null)
+            {
+                pos.dato = nuevo;
+            }
+
+        }
+
+        public int Size()
+        {
+            return size;
         }
 
     }
