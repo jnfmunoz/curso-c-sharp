@@ -20,7 +20,7 @@ namespace _19_AplicacionParaCrearUnaListaEnlazada
         public void addNodo(int dato)
         {
             Nodo nuevo = new Nodo(dato); // add el nodo
-            Nodo valor1, valor2;
+            Nodo valor1, valor2; // punteros para recorrer la lista
 
             if (primero == null)
             {

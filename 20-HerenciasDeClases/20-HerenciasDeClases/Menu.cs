@@ -8,9 +8,19 @@ namespace _20_HerenciasDeClases
 {
     public class Menu
     {
-        public void getProducto()
+        private string s;
+
+        public Menu(string s)
         {
-            Console.WriteLine("Curso de C# desde cero");
+            this.s = s;
+            
         }
+
+        // public void getProducto()
+        // protected void getProducto() 
+        /* protected virtual void getProducto()
+        {
+            Console.WriteLine(s);
+        } */
     }
 }

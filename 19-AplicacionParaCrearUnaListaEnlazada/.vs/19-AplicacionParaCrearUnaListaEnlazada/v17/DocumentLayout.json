@@ -22,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ListaNodo.cs",
-              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\19-AplicacionParaCrearUnaListaEnlazada\\19-AplicacionParaCrearUnaListaEnlazada\\ListaNodo.cs",
-              "RelativeDocumentMoniker": "19-AplicacionParaCrearUnaListaEnlazada\\ListaNodo.cs",
-              "ToolTip": "C:\\projects\\curso-c-sharp\\19-AplicacionParaCrearUnaListaEnlazada\\19-AplicacionParaCrearUnaListaEnlazada\\ListaNodo.cs",
-              "RelativeToolTip": "19-AplicacionParaCrearUnaListaEnlazada\\ListaNodo.cs",
-              "ViewState": "AgIAAKAAAAAAAAAAAAAswKoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T15:26:06.473Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -45,9 +32,22 @@
               "RelativeDocumentMoniker": "19-AplicacionParaCrearUnaListaEnlazada\\Nodo.cs",
               "ToolTip": "C:\\projects\\curso-c-sharp\\19-AplicacionParaCrearUnaListaEnlazada\\19-AplicacionParaCrearUnaListaEnlazada\\Nodo.cs",
               "RelativeToolTip": "19-AplicacionParaCrearUnaListaEnlazada\\Nodo.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T01:48:03.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaNodo.cs",
+              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\19-AplicacionParaCrearUnaListaEnlazada\\19-AplicacionParaCrearUnaListaEnlazada\\ListaNodo.cs",
+              "RelativeDocumentMoniker": "19-AplicacionParaCrearUnaListaEnlazada\\ListaNodo.cs",
+              "ToolTip": "C:\\projects\\curso-c-sharp\\19-AplicacionParaCrearUnaListaEnlazada\\19-AplicacionParaCrearUnaListaEnlazada\\ListaNodo.cs",
+              "RelativeToolTip": "19-AplicacionParaCrearUnaListaEnlazada\\ListaNodo.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAADcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:26:06.473Z",
               "EditorCaption": ""
             },
             {
