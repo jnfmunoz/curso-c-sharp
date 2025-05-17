@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("20-HerenciasDeClases")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ab94ee3cec2e222a8ae1dc2f0911347e4d0e2db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa40457f9e1b667cc5d18f62e5202a2a8fcc8fca")]
 [assembly: System.Reflection.AssemblyProductAttribute("20-HerenciasDeClases")]
 [assembly: System.Reflection.AssemblyTitleAttribute("20-HerenciasDeClases")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

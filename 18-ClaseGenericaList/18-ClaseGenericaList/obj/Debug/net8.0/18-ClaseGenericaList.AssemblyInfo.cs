@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("18-ClaseGenericaList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efb56b15a86ac485cc61426a3176e9bcd6323be7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa40457f9e1b667cc5d18f62e5202a2a8fcc8fca")]
 [assembly: System.Reflection.AssemblyProductAttribute("18-ClaseGenericaList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("18-ClaseGenericaList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("12.1-TiposDeMetodos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a199f21ab0a245c866d0f3cf08c6566864456b8a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa40457f9e1b667cc5d18f62e5202a2a8fcc8fca")]
 [assembly: System.Reflection.AssemblyProductAttribute("12.1-TiposDeMetodos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("12.1-TiposDeMetodos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

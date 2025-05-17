@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("19-AplicacionParaCrearUnaListaEnlazada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d569e74c33b63dd41661e94bf198ab5a264f9a15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa40457f9e1b667cc5d18f62e5202a2a8fcc8fca")]
 [assembly: System.Reflection.AssemblyProductAttribute("19-AplicacionParaCrearUnaListaEnlazada")]
 [assembly: System.Reflection.AssemblyTitleAttribute("19-AplicacionParaCrearUnaListaEnlazada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

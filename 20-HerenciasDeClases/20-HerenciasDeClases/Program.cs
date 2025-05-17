@@ -11,14 +11,14 @@ class Program : Menu // hija | padre
 
     static void Main()
     {
-        new Program("Empresa: JFMG").getProducto();
+        new Program("Empresa: JFMG"); //.getProducto();
 
         Console.ReadKey();
     }
 
-    protected override void getProducto() // sobrescribir método que estamos heredando
+    /* protected override void getProducto() // sobrescribir/anular/invalidar método que estamos heredando
     {
-        // Console.WriteLine(s);
-    }
+        Console.WriteLine("Método sobrescrito");
+    } */
 
 }
