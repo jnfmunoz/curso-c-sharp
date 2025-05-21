@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\20-HerenciasDeClases\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20-HerenciasDeClases\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\20-HerenciasDeClases\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20-HerenciasDeClases\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\20-HerenciasDeClases\\Almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20-HerenciasDeClases\\Almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\20-HerenciasDeClases\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20-HerenciasDeClases\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\20-HerenciasDeClases\\Almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20-HerenciasDeClases\\Almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\20-HerenciasDeClases\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20-HerenciasDeClases\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\20-HerenciasDeClases\\Golosinas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\20-HerenciasDeClases\\Frutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20-HerenciasDeClases\\Frutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\20-HerenciasDeClases\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20-HerenciasDeClases\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,37 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\20-HerenciasDeClases\\Producto.cs",
               "RelativeDocumentMoniker": "20-HerenciasDeClases\\Producto.cs",
               "ToolTip": "C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\20-HerenciasDeClases\\Producto.cs",
               "RelativeToolTip": "20-HerenciasDeClases\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T03:27:23.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\20-HerenciasDeClases\\Program.cs",
               "RelativeDocumentMoniker": "20-HerenciasDeClases\\Program.cs",
               "ToolTip": "C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\20-HerenciasDeClases\\Program.cs",
               "RelativeToolTip": "20-HerenciasDeClases\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T22:22:14.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\20-HerenciasDeClases\\Menu.cs",
               "RelativeDocumentMoniker": "20-HerenciasDeClases\\Menu.cs",
@@ -77,39 +77,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Almacen.cs",
               "DocumentMoniker": "C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\20-HerenciasDeClases\\Almacen.cs",
               "RelativeDocumentMoniker": "20-HerenciasDeClases\\Almacen.cs",
               "ToolTip": "C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\20-HerenciasDeClases\\Almacen.cs",
               "RelativeToolTip": "20-HerenciasDeClases\\Almacen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T03:27:45.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Frutas.cs",
               "DocumentMoniker": "C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\20-HerenciasDeClases\\Frutas.cs",
               "RelativeDocumentMoniker": "20-HerenciasDeClases\\Frutas.cs",
               "ToolTip": "C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\20-HerenciasDeClases\\Frutas.cs",
               "RelativeToolTip": "20-HerenciasDeClases\\Frutas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T03:18:23.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Golosinas.cs",
               "DocumentMoniker": "C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\20-HerenciasDeClases\\Golosinas.cs",
               "RelativeDocumentMoniker": "20-HerenciasDeClases\\Golosinas.cs",
               "ToolTip": "C:\\projects\\curso-c-sharp\\20-HerenciasDeClases\\20-HerenciasDeClases\\Golosinas.cs",
               "RelativeToolTip": "20-HerenciasDeClases\\Golosinas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T03:17:28.433Z",
               "EditorCaption": ""

@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _21_TiendaDeGolosinas
+public class Producto
 {
-    internal class Producto
-    {
-    }
+    public string ID { get; set; }
+    public string Nombre { get; set; }
+    public double Precio { get; set; }
+
 }

@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace _21_TiendaDeGolosinas
 {
-    internal class Golosinas
+    public class Golosinas : Almacen
     {
+        public override void addProducto(Producto producto)
+        {
+            throw new NotImplementedException();
+        }
+
+        public override List<Producto> getProducto(string valor)
+        {
+            throw new NotImplementedException();
+        }
+
     }
 }

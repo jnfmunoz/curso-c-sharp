@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _21_TiendaDeGolosinas
+
+public abstract class Almacen
 {
-    internal class Almacen
-    {
-    }
+    public abstract List<Producto> getProducto(String valor);
+    public abstract void addProducto(Producto producto);
+
 }
