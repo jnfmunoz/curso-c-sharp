@@ -8,14 +8,21 @@ namespace _21_TiendaDeGolosinas
 {
     public class Golosinas : Almacen
     {
-        public override void addProducto(Producto producto)
+        private List<Producto> _Golosinas;
+        
+        public Golosinas()
         {
-            throw new NotImplementedException();
+            _Golosinas = new List<Producto>();
         }
 
-        public override List<Producto> getProducto(string valor)
+        public override void addProducto(Producto producto)
         {
-            throw new NotImplementedException();
+            _Golosinas.Add(producto);
+        }
+
+        public override List<Producto> getProducto()
+        {
+            return _Golosinas;
         }
 
     }

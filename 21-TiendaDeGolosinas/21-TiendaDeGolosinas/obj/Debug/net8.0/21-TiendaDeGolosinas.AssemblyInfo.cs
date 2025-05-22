@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("21-TiendaDeGolosinas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2caa970d83fee25a737161ccab3865139b05ebb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdd5a03d4b1ae97e3ebca46770a3604cd31ac63e")]
 [assembly: System.Reflection.AssemblyProductAttribute("21-TiendaDeGolosinas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("21-TiendaDeGolosinas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

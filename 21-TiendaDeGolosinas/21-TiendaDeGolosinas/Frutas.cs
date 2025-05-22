@@ -13,7 +13,7 @@ namespace _21_TiendaDeGolosinas
             throw new NotImplementedException();
         }
 
-        public override List<Producto> getProducto(string valor)
+        public override List<Producto> getProducto()
         {
             throw new NotImplementedException();
         }

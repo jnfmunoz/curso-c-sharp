@@ -37,6 +37,6 @@ namespace _20_HerenciasDeClases
 
     interface IProductos
     {
-        void addProductos();
+        //void addProductos();
     }
 }

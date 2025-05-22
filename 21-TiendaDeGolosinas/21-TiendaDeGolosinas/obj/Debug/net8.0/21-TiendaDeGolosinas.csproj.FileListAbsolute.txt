@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\21-TiendaDeGolosinas\21-TiendaDeGolosinas\obj\Debug\net8.0\21-TiendaDeGolosinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\21-TiendaDeGolosinas\21-TiendaDeGolosinas\obj\Debug\net8.0\21-TiendaDeGolosinas.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\21-TiendaDeGolosinas\21-TiendaDeGolosinas\obj\Debug\net8.0\21-TiendaDeGolosinas.AssemblyInfo.cs
+C:\projects\curso-c-sharp\21-TiendaDeGolosinas\21-TiendaDeGolosinas\obj\Debug\net8.0\21-TiendaDeGolosinas.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\21-TiendaDeGolosinas\21-TiendaDeGolosinas\obj\Debug\net8.0\21-TiendaDeGolosinas.sourcelink.json
+C:\projects\curso-c-sharp\21-TiendaDeGolosinas\21-TiendaDeGolosinas\bin\Debug\net8.0\21-TiendaDeGolosinas.exe
+C:\projects\curso-c-sharp\21-TiendaDeGolosinas\21-TiendaDeGolosinas\bin\Debug\net8.0\21-TiendaDeGolosinas.deps.json
+C:\projects\curso-c-sharp\21-TiendaDeGolosinas\21-TiendaDeGolosinas\bin\Debug\net8.0\21-TiendaDeGolosinas.runtimeconfig.json
+C:\projects\curso-c-sharp\21-TiendaDeGolosinas\21-TiendaDeGolosinas\bin\Debug\net8.0\21-TiendaDeGolosinas.dll
+C:\projects\curso-c-sharp\21-TiendaDeGolosinas\21-TiendaDeGolosinas\bin\Debug\net8.0\21-TiendaDeGolosinas.pdb
+C:\projects\curso-c-sharp\21-TiendaDeGolosinas\21-TiendaDeGolosinas\obj\Debug\net8.0\21-TiendaDeGolosinas.dll
+C:\projects\curso-c-sharp\21-TiendaDeGolosinas\21-TiendaDeGolosinas\obj\Debug\net8.0\refint\21-TiendaDeGolosinas.dll
+C:\projects\curso-c-sharp\21-TiendaDeGolosinas\21-TiendaDeGolosinas\obj\Debug\net8.0\21-TiendaDeGolosinas.pdb
+C:\projects\curso-c-sharp\21-TiendaDeGolosinas\21-TiendaDeGolosinas\obj\Debug\net8.0\21-TiendaDeGolosinas.genruntimeconfig.cache
+C:\projects\curso-c-sharp\21-TiendaDeGolosinas\21-TiendaDeGolosinas\obj\Debug\net8.0\ref\21-TiendaDeGolosinas.dll

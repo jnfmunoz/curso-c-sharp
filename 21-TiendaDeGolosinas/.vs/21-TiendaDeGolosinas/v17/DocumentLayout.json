@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:21-TiendaDeGolosinas\\Almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:21-TiendaDeGolosinas\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:21-TiendaDeGolosinas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Frutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:21-TiendaDeGolosinas\\Frutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Golosinas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:21-TiendaDeGolosinas\\Golosinas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:21-TiendaDeGolosinas\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:21-TiendaDeGolosinas\\Almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:21-TiendaDeGolosinas\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Frutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:21-TiendaDeGolosinas\\Frutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\IMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:21-TiendaDeGolosinas\\IMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,71 +34,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Producto.cs",
-              "RelativeDocumentMoniker": "21-TiendaDeGolosinas\\Producto.cs",
-              "ToolTip": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Producto.cs",
-              "RelativeToolTip": "21-TiendaDeGolosinas\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\IMenu.cs",
+              "RelativeDocumentMoniker": "21-TiendaDeGolosinas\\IMenu.cs",
+              "ToolTip": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\IMenu.cs",
+              "RelativeToolTip": "21-TiendaDeGolosinas\\IMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:52:05.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Menu.cs",
-              "RelativeDocumentMoniker": "21-TiendaDeGolosinas\\Menu.cs",
-              "ToolTip": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Menu.cs",
-              "RelativeToolTip": "21-TiendaDeGolosinas\\Menu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:51:50.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Golosinas.cs",
-              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Golosinas.cs",
-              "RelativeDocumentMoniker": "21-TiendaDeGolosinas\\Golosinas.cs",
-              "ToolTip": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Golosinas.cs",
-              "RelativeToolTip": "21-TiendaDeGolosinas\\Golosinas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:51:00.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Frutas.cs",
-              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Frutas.cs",
-              "RelativeDocumentMoniker": "21-TiendaDeGolosinas\\Frutas.cs",
-              "ToolTip": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Frutas.cs",
-              "RelativeToolTip": "21-TiendaDeGolosinas\\Frutas.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:50:33.753Z",
+              "WhenOpened": "2025-05-21T23:57:39.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Almacen.cs",
-              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Almacen.cs",
-              "RelativeDocumentMoniker": "21-TiendaDeGolosinas\\Almacen.cs",
-              "ToolTip": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Almacen.cs",
-              "RelativeToolTip": "21-TiendaDeGolosinas\\Almacen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAcAAAAdAAAAAAAAAA==",
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Menu.cs",
+              "RelativeDocumentMoniker": "21-TiendaDeGolosinas\\Menu.cs",
+              "ToolTip": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Menu.cs",
+              "RelativeToolTip": "21-TiendaDeGolosinas\\Menu.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:50:17.62Z",
+              "WhenOpened": "2025-05-20T03:51:50.028Z",
               "EditorCaption": ""
             },
             {
@@ -109,9 +70,48 @@
               "RelativeDocumentMoniker": "21-TiendaDeGolosinas\\Program.cs",
               "ToolTip": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Program.cs",
               "RelativeToolTip": "21-TiendaDeGolosinas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T03:46:22.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Almacen.cs",
+              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Almacen.cs",
+              "RelativeDocumentMoniker": "21-TiendaDeGolosinas\\Almacen.cs",
+              "ToolTip": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Almacen.cs",
+              "RelativeToolTip": "21-TiendaDeGolosinas\\Almacen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:50:17.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Golosinas.cs",
+              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Golosinas.cs",
+              "RelativeDocumentMoniker": "21-TiendaDeGolosinas\\Golosinas.cs",
+              "ToolTip": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Golosinas.cs",
+              "RelativeToolTip": "21-TiendaDeGolosinas\\Golosinas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:51:00.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frutas.cs",
+              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Frutas.cs",
+              "RelativeDocumentMoniker": "21-TiendaDeGolosinas\\Frutas.cs",
+              "ToolTip": "C:\\projects\\curso-c-sharp\\21-TiendaDeGolosinas\\21-TiendaDeGolosinas\\Frutas.cs",
+              "RelativeToolTip": "21-TiendaDeGolosinas\\Frutas.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:50:33.753Z",
               "EditorCaption": ""
             }
           ]
