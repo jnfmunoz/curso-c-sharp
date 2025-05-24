@@ -19,7 +19,7 @@ namespace _21_TiendaDeGolosinas
             {
                 Console.Clear();
                 Console.WriteLine("Venta de golosinas");
-                if (g.getProducto().Count.Equals(0))
+                if (g.getProducto("").Count.Equals(0))
                 {
                     Console.WriteLine("No hay golosinas");
                     Console.WriteLine("Agregar golosinas? Presione las teclas s/n");
@@ -77,12 +77,21 @@ namespace _21_TiendaDeGolosinas
                 else
                 {
                     Console.WriteLine("Lista de golosinas");
-                    foreach (var item in g.getProducto())
+                    foreach (var item in g.getProducto(""))
                     {
                         Console.WriteLine($"Código {item.ID} Golosina {item.Nombre} Precio {item.Precio} ");
                     }
                     Console.WriteLine("Desea realizar ventas de golosinas? s/n");
                     des = Console.ReadLine();
+
+                    if (des.Equals("s"))
+                    {
+                        ventas();   
+                    }
+                    else
+                    {
+                        valor = false;
+                    }
 
                 }
 
@@ -90,14 +99,65 @@ namespace _21_TiendaDeGolosinas
             while (valor);
         }
 
-        public void ventas()          
-        {
-            throw new NotImplementedException();
-        }
-
         public double solicitarPago() 
         {
-            throw new NotImplementedException();
+            bool pagoCorrecto = false;
+            double res = 0;
+
+            while (!pagoCorrecto)
+            {
+                Console.WriteLine("Cómo desea pagar con: 10, 5");
+                res = double.Parse(Console.ReadLine());
+                if (res != 5 && res != 10)
+                {
+                    Console.WriteLine("Pago no válido");
+                }
+                else
+                {
+                    pagoCorrecto = true;
+                }
+            }
+
+            return res;
         }
+
+        public void ventas()          
+        {
+            double total = 0;
+            string des = "";
+
+            do
+            {
+                Console.WriteLine("Ingrese el producto");
+                string producto = Console.ReadLine();
+                var productos = g.getProducto(producto);
+
+                while (productos.Count.Equals(0))
+                {
+                    Console.WriteLine("Golosina no disponible, por favor seleccione otro:");
+                    producto = Console.ReadLine();
+                    productos = g.getProducto(producto);
+                }
+
+                Console.WriteLine($"Su monto a pagar es: {productos[0].Precio} $ Dolar");
+                double pago = solicitarPago();
+
+                while (pago < productos[0].Precio)
+                {
+                    Console.WriteLine("Faltan " + (productos[0].Precio - pago).ToString() + " $ Dolar");
+                    pago += solicitarPago();
+                }
+
+                Console.WriteLine("Su cambio: " + (pago - productos[0].Precio).ToString());
+                total += productos[0].Precio;
+                Console.WriteLine("Su pago fue de: " + total.ToString() + " $ Dolar");
+                
+                Console.WriteLine("Desea realizar otra compra? s/n");
+                des = Console.ReadLine();
+
+            }
+            while (des.Equals("s"));
+        }
+
     }
 }

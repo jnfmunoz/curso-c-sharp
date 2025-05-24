@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 public abstract class Almacen
 {
-    public abstract List<Producto> getProducto();
+    public abstract List<Producto> getProducto(string producto);
     public abstract void addProducto(Producto producto);
 
 }

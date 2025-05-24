@@ -20,9 +20,19 @@ namespace _21_TiendaDeGolosinas
             _Golosinas.Add(producto);
         }
 
-        public override List<Producto> getProducto()
+        public override List<Producto> getProducto(string producto)
         {
-            return _Golosinas;
+            var golosinas = new List<Producto>();
+
+            if (producto.Equals(""))
+            {
+                golosinas = _Golosinas;
+            }
+            else
+            {
+                golosinas = _Golosinas.Where(g => g.Nombre.Equals(producto)).ToList();
+            }
+            return golosinas;
         }
 
     }
