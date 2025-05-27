@@ -9,6 +9,120 @@ namespace _21_TiendaDeGolosinas
     public class Menu : IMenu
     {
         Almacen g = new Golosinas();
+        Almacen f = new Frutas();
+
+        public void iniciar()
+        {
+            int des = -1;
+
+            do
+            {
+                Console.WriteLine("Almacen");
+                Console.WriteLine("Seleccione una opción \n 1) Gestión/Venta de Frutas \n 2) Gestión/Venta de Golosinas \n 0) Salir");
+                des = int.Parse(Console.ReadLine());
+
+                if (des == 1)
+                {
+                    frutas();
+                }
+                else if (des == 2)
+                {
+                    golosinas();
+                }
+            }
+            while (des != 0);
+
+        }
+
+        public void frutas()
+        {
+            var des = "";
+            var valor = false;
+
+            do
+            {
+                Console.Clear();
+                Console.WriteLine("Gestión/Venta de frutas");
+                if (f.getProducto("").Count.Equals(0))
+                {
+                    Console.WriteLine("No hay frutas");
+                    Console.WriteLine("Agregar frutas? Presione las teclas s/n");
+                    des = Console.ReadLine();
+                    if (des.Equals("s"))
+                    {
+                        Console.WriteLine("Cuántas frutas desea agregar?");
+                        int cant = Convert.ToInt16(Console.ReadLine());
+
+                        for (int i = 0; i < cant; i++)
+                        {
+                            Console.WriteLine("Nueva frutas");
+                            Console.WriteLine("Ingrese id producto");
+                            var id = Console.ReadLine();
+                            Console.WriteLine("Ingrese nombre producto");
+                            var nombre = Console.ReadLine();
+                            Console.WriteLine("Ingrese precio producto");
+                            var precio = Convert.ToDouble(Console.ReadLine());
+
+                            f.addProducto(new Producto
+                            {
+                                ID = id,
+                                Nombre = nombre,
+                                Precio = precio
+                            });
+                        }
+
+                        Console.WriteLine("Desea ir al inicio? s/n");
+                        des = Console.ReadLine();
+
+                        if (des.Equals("s"))
+                        {
+                            valor = true;
+                        }
+                        else if (des.Equals("n"))
+                        {
+                            valor = false;
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("Desea ir al inicio s/n");
+                        des = Console.ReadLine();
+                        if (des.Equals("s"))
+                        {
+                            Console.Clear();
+                            Console.WriteLine("Venta de golosinas y frutas");
+                        }
+                        else
+                        {
+                            valor = false;
+                        }
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Lista de frutas");
+                    foreach (var item in f.getProducto(""))
+                    {
+                        Console.WriteLine($"Código {item.ID} Fruta {item.Nombre} Precio {item.Precio} ");
+                    }
+                    Console.WriteLine("Desea realizar ventas de frutas? s/n");
+                    des = Console.ReadLine();
+
+                    if (des.Equals("s"))
+                    {
+                        ventas(f);
+                    }
+                    else
+                    {
+                        valor = false;
+                    }
+
+                }
+
+            }
+            while (valor);
+
+        }
 
         public void golosinas()       
         {
@@ -17,8 +131,8 @@ namespace _21_TiendaDeGolosinas
 
             do
             {
-                Console.Clear();
-                Console.WriteLine("Venta de golosinas");
+                Console.Clear();                
+                Console.WriteLine("Gestión/Venta de golosinas");
                 if (g.getProducto("").Count.Equals(0))
                 {
                     Console.WriteLine("No hay golosinas");
@@ -26,7 +140,7 @@ namespace _21_TiendaDeGolosinas
                     des = Console.ReadLine();
                     if (des.Equals("s"))
                     {
-                        Console.WriteLine("Cuántas golosinas va a agregar?");
+                        Console.WriteLine("Cuántas golosinas desea agregar?");
                         int cant = Convert.ToInt16(Console.ReadLine());
 
                         for (int i = 0; i < cant; i++)
@@ -86,7 +200,7 @@ namespace _21_TiendaDeGolosinas
 
                     if (des.Equals("s"))
                     {
-                        ventas();   
+                        ventas(g);   
                     }
                     else
                     {
@@ -121,7 +235,7 @@ namespace _21_TiendaDeGolosinas
             return res;
         }
 
-        public void ventas()          
+        public void ventas(Almacen almacen)
         {
             double total = 0;
             string des = "";
@@ -130,7 +244,7 @@ namespace _21_TiendaDeGolosinas
             {
                 Console.WriteLine("Ingrese el producto");
                 string producto = Console.ReadLine();
-                var productos = g.getProducto(producto);
+                var productos = almacen.getProducto(producto);
 
                 while (productos.Count.Equals(0))
                 {

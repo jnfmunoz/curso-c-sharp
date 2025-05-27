@@ -8,9 +8,10 @@ namespace _21_TiendaDeGolosinas
 {
 	public interface IMenu
 	{
-			void golosinas();
-			void ventas();
-			double solicitarPago();
+		void frutas();
+		void golosinas();
+		void ventas(Almacen almacen);
+		double solicitarPago();
 
 	}
 }
