@@ -1,0 +1,11 @@
+C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\22-WindowsFormsConNetFramework\bin\Debug\22-WindowsFormsConNetFramework.exe.config
+C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\22-WindowsFormsConNetFramework\bin\Debug\22-WindowsFormsConNetFramework.exe
+C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\22-WindowsFormsConNetFramework\bin\Debug\22-WindowsFormsConNetFramework.pdb
+C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\22-WindowsFormsConNetFramework\obj\Debug\22-WindowsFormsConNetFramework.csproj.AssemblyReference.cache
+C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\22-WindowsFormsConNetFramework\obj\Debug\_22_WindowsFormsConNetFramework.Form1.resources
+C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\22-WindowsFormsConNetFramework\obj\Debug\_22_WindowsFormsConNetFramework.Properties.Resources.resources
+C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\22-WindowsFormsConNetFramework\obj\Debug\22-WindowsFormsConNetFramework.csproj.GenerateResource.cache
+C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\22-WindowsFormsConNetFramework\obj\Debug\22-WindowsFormsConNetFramework.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\22-WindowsFormsConNetFramework\obj\Debug\22-WindowsFormsConNetFramework.exe
+C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\22-WindowsFormsConNetFramework\obj\Debug\22-WindowsFormsConNetFramework.pdb
+C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\22-WindowsFormsConNetFramework\obj\Debug\22-WindowsFormsConNetFramework.exe.config

@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{6F213C2C-D465-48C0-BD51-B5D7EAEEB037}|22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework.csproj|c:\\projects\\curso-c-sharp\\22-windowsformsconnetframework\\22-windowsformsconnetframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6F213C2C-D465-48C0-BD51-B5D7EAEEB037}|22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework.csproj|solutionrelative:22-windowsformsconnetframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F213C2C-D465-48C0-BD51-B5D7EAEEB037}|22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework.csproj|c:\\projects\\curso-c-sharp\\22-windowsformsconnetframework\\22-windowsformsconnetframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F213C2C-D465-48C0-BD51-B5D7EAEEB037}|22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework.csproj|solutionrelative:22-windowsformsconnetframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F213C2C-D465-48C0-BD51-B5D7EAEEB037}|22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework.csproj|c:\\projects\\curso-c-sharp\\22-windowsformsconnetframework\\22-windowsformsconnetframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F213C2C-D465-48C0-BD51-B5D7EAEEB037}|22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework.csproj|solutionrelative:22-windowsformsconnetframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,20 +21,60 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 1344,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework\\Form1.cs",
+              "RelativeDocumentMoniker": "22-WindowsFormsConNetFramework\\Form1.cs",
+              "ToolTip": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework\\Form1.cs*",
+              "RelativeToolTip": "22-WindowsFormsConNetFramework\\Form1.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T23:49:12.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework\\Program.cs",
+              "RelativeDocumentMoniker": "22-WindowsFormsConNetFramework\\Program.cs",
+              "ToolTip": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework\\Program.cs",
+              "RelativeToolTip": "22-WindowsFormsConNetFramework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T23:13:49.802Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework\\Form1.cs",
               "RelativeDocumentMoniker": "22-WindowsFormsConNetFramework\\Form1.cs",
-              "ToolTip": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "22-WindowsFormsConNetFramework\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "22-WindowsFormsConNetFramework\\Form1.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T23:26:27.626Z",
               "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
