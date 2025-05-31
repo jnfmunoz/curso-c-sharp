@@ -83,5 +83,11 @@
   <ItemGroup>
     <None Include="Resources\6tag-787132-1143630808739829472_787132.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Logica\Logica.csproj">
+      <Project>{0c5f47ac-04d7-40a6-89fe-87f74df38450}</Project>
+      <Name>Logica</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

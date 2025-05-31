@@ -1,0 +1,6 @@
+C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\Logica\bin\Debug\Logica.dll
+C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\Logica\bin\Debug\Logica.pdb
+C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\Logica\obj\Debug\Logica.dll
+C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\Logica\obj\Debug\Logica.pdb

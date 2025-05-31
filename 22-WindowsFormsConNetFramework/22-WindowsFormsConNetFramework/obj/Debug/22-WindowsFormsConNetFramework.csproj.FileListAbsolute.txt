@@ -9,3 +9,6 @@ C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\22-WindowsFormsConNetFr
 C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\22-WindowsFormsConNetFramework\obj\Debug\22-WindowsFormsConNetFramework.exe
 C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\22-WindowsFormsConNetFramework\obj\Debug\22-WindowsFormsConNetFramework.pdb
 C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\22-WindowsFormsConNetFramework\obj\Debug\22-WindowsFormsConNetFramework.exe.config
+C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\22-WindowsFormsConNetFramework\bin\Debug\Logica.dll
+C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\22-WindowsFormsConNetFramework\bin\Debug\Logica.pdb
+C:\projects\curso-c-sharp\22-WindowsFormsConNetFramework\22-WindowsFormsConNetFramework\obj\Debug\22-Windo.927BDDD0.Up2Date
