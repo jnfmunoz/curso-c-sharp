@@ -25,5 +25,76 @@ namespace _22_WindowsFormsConNetFramework
             estudiante.CargarImagen(pictureBoxImage);
 
         }
+
+        private void TextBoxNid_TextChanged(object sender, EventArgs e)
+        {
+            if (textBoxNid.Text.Equals(""))
+            {
+                labelNid.ForeColor = Color.LightSlateGray;
+            }
+            else
+            {
+                labelNid.ForeColor = Color.Green;
+                labelNid.Text = "Nid";
+            }
+        }
+
+        private void TextBoxNid_KeyPress(object sender, KeyPressEventArgs e)
+        {
+
+        }
+        private void TextBoxEmail_TextChanged(object sender, EventArgs e)
+        {
+            if (textBoxEmail.Text.Equals(""))
+            {
+                labelEmail.ForeColor = Color.LightSlateGray;
+            }
+            else
+            {
+                labelEmail.ForeColor = Color.Green;
+                labelEmail.Text = "Email";
+            }
+        }
+
+        private void TextBoxEmail_KeyPress(object sender, KeyPressEventArgs e)
+        {
+
+        }
+
+        private void TextBoxNombre_TextChanged(object sender, EventArgs e)
+        {
+            if (textBoxNombre.Text.Equals(""))
+            {
+                labelNombre.ForeColor = Color.LightSlateGray;
+            }
+            else
+            {
+                labelNombre.ForeColor = Color.Green;
+                labelNombre.Text = "Nombre";
+            }
+        }
+
+        private void TextBoxNombre_KeyPress(object sender, KeyPressEventArgs e)
+        {
+
+        }
+
+        private void TextBoxApellido_TextChanged(object sender, EventArgs e)
+        {
+            if (textBoxApellido.Text.Equals(""))
+            {
+                labelApellido.ForeColor = Color.LightSlateGray;
+            }
+            else
+            {
+                labelApellido.ForeColor = Color.Green;
+                labelApellido.Text = "Apellido";
+            }
+        }
+
+        private void TextBoxApellido_KeyPress(object sender, KeyPressEventArgs e)
+        {
+
+        }
     }
 }
