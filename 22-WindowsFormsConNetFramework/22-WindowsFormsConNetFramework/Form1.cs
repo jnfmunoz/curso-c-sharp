@@ -13,16 +13,31 @@ namespace _22_WindowsFormsConNetFramework
 {
     public partial class Form1 : Form
     {
-        private LEstudiantes estudiante = new LEstudiantes();
+        private LEstudiantes estudiante;
 
         public Form1()
         {
             InitializeComponent();
+
+            var listTextBox = new List<TextBox>();
+            listTextBox.Add(textBoxNid);
+            listTextBox.Add(textBoxEmail);
+            listTextBox.Add(textBoxNombre);
+            listTextBox.Add(textBoxApellido);
+
+            var listLabel = new List<Label>();
+            listLabel.Add(labelNid);
+            listLabel.Add(labelEmail);
+            listLabel.Add(labelNombre);
+            listLabel.Add(labelApellido);
+
+            estudiante = new LEstudiantes(listTextBox, listLabel);
+
         }
 
         private void pictureBoxImage_Click(object sender, EventArgs e)
         {
-            estudiante.CargarImagen(pictureBoxImage);
+            estudiante.uploadimage.CargarImagen(pictureBoxImage);
 
         }
 
@@ -35,13 +50,13 @@ namespace _22_WindowsFormsConNetFramework
             else
             {
                 labelNid.ForeColor = Color.Green;
-                labelNid.Text = "Nid";
+                labelNid.Text = "N° id";
             }
         }
 
         private void TextBoxNid_KeyPress(object sender, KeyPressEventArgs e)
         {
-
+            estudiante.textBoxEvent.NumberKeyPress(e);
         }
         private void TextBoxEmail_TextChanged(object sender, EventArgs e)
         {
@@ -54,11 +69,6 @@ namespace _22_WindowsFormsConNetFramework
                 labelEmail.ForeColor = Color.Green;
                 labelEmail.Text = "Email";
             }
-        }
-
-        private void TextBoxEmail_KeyPress(object sender, KeyPressEventArgs e)
-        {
-
         }
 
         private void TextBoxNombre_TextChanged(object sender, EventArgs e)
@@ -76,7 +86,7 @@ namespace _22_WindowsFormsConNetFramework
 
         private void TextBoxNombre_KeyPress(object sender, KeyPressEventArgs e)
         {
-
+            estudiante.textBoxEvent.TextKeyPress(e);
         }
 
         private void TextBoxApellido_TextChanged(object sender, EventArgs e)
@@ -94,7 +104,12 @@ namespace _22_WindowsFormsConNetFramework
 
         private void TextBoxApellido_KeyPress(object sender, KeyPressEventArgs e)
         {
+            estudiante.textBoxEvent.TextKeyPress(e);
+        }
 
+        private void buttonAgregar_Click(object sender, EventArgs e)
+        {
+            estudiante.Registrar();
         }
     }
 }
