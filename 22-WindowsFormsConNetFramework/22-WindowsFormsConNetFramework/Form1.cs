@@ -31,13 +31,15 @@ namespace _22_WindowsFormsConNetFramework
             listLabel.Add(labelNombre);
             listLabel.Add(labelApellido);
 
-            estudiante = new LEstudiantes(listTextBox, listLabel);
+            Object[] objetos = { pictureBoxImage };
+
+            estudiante = new LEstudiantes(listTextBox, listLabel, objetos);
 
         }
 
         private void pictureBoxImage_Click(object sender, EventArgs e)
         {
-            estudiante.uploadimage.CargarImagen(pictureBoxImage);
+            estudiante.uploadImage.CargarImagen(pictureBoxImage);
 
         }
 
@@ -109,7 +111,7 @@ namespace _22_WindowsFormsConNetFramework
 
         private void buttonAgregar_Click(object sender, EventArgs e)
         {
-            estudiante.Registrar();
+            estudiante.Registrar(); 
         }
     }
 }

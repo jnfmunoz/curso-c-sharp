@@ -8,7 +8,7 @@ namespace Logica.Library
 {
     public class Librarys
     {
-        public Uploadimage uploadimage = new Uploadimage();
+        public Uploadimage uploadImage = new Uploadimage();
         public TextBoxEvent textBoxEvent = new TextBoxEvent();
     }
 }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -42,5 +43,11 @@ namespace Logica.Library
             // cualquier otro carácter (números, símbolos, etc.) se bloquea
             else { e.Handled = true; }
         }
+
+        public bool ComprobarFormatoEmail(string email)
+        {
+            return new EmailAddressAttribute().IsValid(email);
+        }
+
     }
 }
