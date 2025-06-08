@@ -1,4 +1,5 @@
 ﻿using Logica;
+using Logica.Library;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -14,6 +15,7 @@ namespace _22_WindowsFormsConNetFramework
     public partial class Form1 : Form
     {
         private LEstudiantes estudiante;
+        //private Librarys librarys;
 
         public Form1()
         {
@@ -34,6 +36,7 @@ namespace _22_WindowsFormsConNetFramework
             Object[] objetos = { pictureBoxImage };
 
             estudiante = new LEstudiantes(listTextBox, listLabel, objetos);
+            //librarys = new Librarys();
 
         }
 

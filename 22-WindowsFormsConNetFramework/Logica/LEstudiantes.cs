@@ -1,11 +1,15 @@
-﻿using Logica.Library;
+﻿using Data;
+using LinqToDB;
+using Logica.Library;
 using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.ListView;
 
 namespace Logica
 {
@@ -14,12 +18,15 @@ namespace Logica
         private List<TextBox> listTextBox;
         private List<Label> listLabel;
         private PictureBox image;
+        //private Librarys librarys;
 
         public LEstudiantes(List<TextBox> listTextBox, List<Label> listLabel, object[] objetos)
         {
             this.listTextBox = listTextBox;
             this.listLabel = listLabel;
             image = (PictureBox)objetos[0];
+            
+            //librarys = new Librarys();
         }
 
         public void Registrar()
@@ -59,6 +66,26 @@ namespace Logica
                             if (textBoxEvent.ComprobarFormatoEmail(listTextBox[1].Text))
                             {
                                 var imageArray = uploadImage.ImageToByte(image.Image);
+
+                                //using( var db = new Conexion() ){
+
+                                //    db.Insert(new Estudiante()
+                                //    {
+                                //        nid = listTextBox[0].Text,
+                                //        nombre = listTextBox[1].Text,
+                                //        apellido = listTextBox[2].Text,
+                                //        email = listTextBox[3].Text,
+
+                                //    });
+                                //}
+
+                                _Estudiante.Value(e => e.nid, listTextBox[0].Text)
+                                    .Value(e => e.nombre, listTextBox[1].Text)
+                                    .Value(e => e.apellido, listTextBox[2].Text)
+                                    .Value(e => e.email, listTextBox[3].Text)
+                                    .Value(e => e.image, imageArray)
+                                    .Insert();
+
                             }
                             else
                             {
