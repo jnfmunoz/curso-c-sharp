@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\23-ExcepcionesEnCSharp\23-ExcepcionesEnCSharp\bin\Debug\net8.0\23-ExcepcionesEnCSharp.exe
+C:\projects\curso-c-sharp\23-ExcepcionesEnCSharp\23-ExcepcionesEnCSharp\bin\Debug\net8.0\23-ExcepcionesEnCSharp.deps.json
+C:\projects\curso-c-sharp\23-ExcepcionesEnCSharp\23-ExcepcionesEnCSharp\bin\Debug\net8.0\23-ExcepcionesEnCSharp.runtimeconfig.json
+C:\projects\curso-c-sharp\23-ExcepcionesEnCSharp\23-ExcepcionesEnCSharp\bin\Debug\net8.0\23-ExcepcionesEnCSharp.dll
+C:\projects\curso-c-sharp\23-ExcepcionesEnCSharp\23-ExcepcionesEnCSharp\bin\Debug\net8.0\23-ExcepcionesEnCSharp.pdb
+C:\projects\curso-c-sharp\23-ExcepcionesEnCSharp\23-ExcepcionesEnCSharp\obj\Debug\net8.0\23-ExcepcionesEnCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\23-ExcepcionesEnCSharp\23-ExcepcionesEnCSharp\obj\Debug\net8.0\23-ExcepcionesEnCSharp.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\23-ExcepcionesEnCSharp\23-ExcepcionesEnCSharp\obj\Debug\net8.0\23-ExcepcionesEnCSharp.AssemblyInfo.cs
+C:\projects\curso-c-sharp\23-ExcepcionesEnCSharp\23-ExcepcionesEnCSharp\obj\Debug\net8.0\23-ExcepcionesEnCSharp.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\23-ExcepcionesEnCSharp\23-ExcepcionesEnCSharp\obj\Debug\net8.0\23-ExcepcionesEnCSharp.sourcelink.json
+C:\projects\curso-c-sharp\23-ExcepcionesEnCSharp\23-ExcepcionesEnCSharp\obj\Debug\net8.0\23-ExcepcionesEnCSharp.dll
+C:\projects\curso-c-sharp\23-ExcepcionesEnCSharp\23-ExcepcionesEnCSharp\obj\Debug\net8.0\refint\23-ExcepcionesEnCSharp.dll
+C:\projects\curso-c-sharp\23-ExcepcionesEnCSharp\23-ExcepcionesEnCSharp\obj\Debug\net8.0\23-ExcepcionesEnCSharp.pdb
+C:\projects\curso-c-sharp\23-ExcepcionesEnCSharp\23-ExcepcionesEnCSharp\obj\Debug\net8.0\23-ExcepcionesEnCSharp.genruntimeconfig.cache
+C:\projects\curso-c-sharp\23-ExcepcionesEnCSharp\23-ExcepcionesEnCSharp\obj\Debug\net8.0\ref\23-ExcepcionesEnCSharp.dll

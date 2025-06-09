@@ -9,7 +9,7 @@ namespace Data
 {
     public class Conexion : LinqToDB.Data.DataConnection
     {
-        public Conexion(): base("PHDN2") { }        
+        public Conexion(): base("PHDN1") { }        
         public ITable<Estudiante> _Estudiante => this.GetTable<Estudiante>();
 
     }
