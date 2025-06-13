@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "w5t9W+t2kG8=",
+  "dgSpecHash": "Uh/+uwAI1YA=",
   "success": true,
   "projectFilePath": "C:\\projects\\curso-c-sharp\\23-ExcepcionesEnCSharp\\23-ExcepcionesEnCSharp\\23-ExcepcionesEnCSharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\Juan_\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.17\\microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\Juan_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.17\\microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\Juan_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.17\\microsoft.netcore.app.host.win-x64.8.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
