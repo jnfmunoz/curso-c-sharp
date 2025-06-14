@@ -65,26 +65,35 @@ namespace Logica
                         {
                             if (textBoxEvent.ComprobarFormatoEmail(listTextBox[1].Text))
                             {
-                                var imageArray = uploadImage.ImageToByte(image.Image);
+                                BeginTransactionAsync();
+                                try
+                                {
+                                    var imageArray = uploadImage.ImageToByte(image.Image);
 
-                                //using( var db = new Conexion() ){
+                                    _Estudiante.Value(e => e.nid, listTextBox[0].Text)
+                                        .Value(e => e.nombre, listTextBox[1].Text)
+                                        .Value(e => e.apellido, listTextBox[2].Text)
+                                        .Value(e => e.email, listTextBox[3].Text)
+                                        .Value(e => e.image, imageArray)
+                                        .Insert();
 
-                                //    db.Insert(new Estudiante()
-                                //    {
-                                //        nid = listTextBox[0].Text,
-                                //        nombre = listTextBox[1].Text,
-                                //        apellido = listTextBox[2].Text,
-                                //        email = listTextBox[3].Text,
+                                    //using( var db = new Conexion() ){
 
-                                //    });
-                                //}
+                                    //    db.Insert(new Estudiante()
+                                    //    {
+                                    //        nid = listTextBox[0].Text,
+                                    //        nombre = listTextBox[1].Text,
+                                    //        apellido = listTextBox[2].Text,
+                                    //        email = listTextBox[3].Text,
 
-                                _Estudiante.Value(e => e.nid, listTextBox[0].Text)
-                                    .Value(e => e.nombre, listTextBox[1].Text)
-                                    .Value(e => e.apellido, listTextBox[2].Text)
-                                    .Value(e => e.email, listTextBox[3].Text)
-                                    .Value(e => e.image, imageArray)
-                                    .Insert();
+                                    //    });
+                                    //}
+
+                                }
+                                catch (Exception)
+                                {
+                                    throw;
+                                }                                                               
 
                             }
                             else
