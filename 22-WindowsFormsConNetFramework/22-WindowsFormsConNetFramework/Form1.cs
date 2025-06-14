@@ -33,7 +33,11 @@ namespace _22_WindowsFormsConNetFramework
             listLabel.Add(labelNombre);
             listLabel.Add(labelApellido);
 
-            Object[] objetos = { pictureBoxImage };
+            Object[] objetos = {
+                pictureBoxImage,
+                Properties.Resources.logo,
+                dataGridViewEstudiantes
+            };
 
             estudiante = new LEstudiantes(listTextBox, listLabel, objetos);
             //librarys = new Librarys();
