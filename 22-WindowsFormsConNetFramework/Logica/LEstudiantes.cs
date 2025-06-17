@@ -148,9 +148,21 @@ namespace Logica
             }
             else
             {
-
+                query = _Estudiante.Where(c => c.nid.StartsWith(campo) || c.nombre.StartsWith(campo)
+                            || c.apellido.StartsWith(campo)).ToList();
             }
+            if (0 < query.Count) 
+            {
+                _dataGridView.DataSource = query.Select(c => new
+                {
+                    c.id,
+                    c.nid,
+                    c.nombre,
+                    c.apellido,
+                    c.email,
 
+                }).Skip(inicio).Take(_reg_por_pagina).ToList();
+            }
 
         }
 
@@ -171,6 +183,8 @@ namespace Logica
             listTextBox[1].Text = "";
             listTextBox[2].Text = "";
             listTextBox[3].Text = "";
+
+            BuscarEstudiante("");
 
         }
 
