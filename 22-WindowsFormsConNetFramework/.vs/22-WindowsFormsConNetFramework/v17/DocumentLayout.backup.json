@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C5F47AC-04D7-40A6-89FE-87F74DF38450}|Logica\\Logica.csproj|c:\\projects\\curso-c-sharp\\22-windowsformsconnetframework\\logica\\lestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C5F47AC-04D7-40A6-89FE-87F74DF38450}|Logica\\Logica.csproj|solutionrelative:logica\\lestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F213C2C-D465-48C0-BD51-B5D7EAEEB037}|22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework.csproj|C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\22-windowsformsconnetframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F213C2C-D465-48C0-BD51-B5D7EAEEB037}|22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework.csproj|solutionrelative:22-windowsformsconnetframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F213C2C-D465-48C0-BD51-B5D7EAEEB037}|22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework.csproj|c:\\projects\\curso-c-sharp\\22-windowsformsconnetframework\\22-windowsformsconnetframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6F213C2C-D465-48C0-BD51-B5D7EAEEB037}|22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework.csproj|C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\22-windowsformsconnetframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6F213C2C-D465-48C0-BD51-B5D7EAEEB037}|22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework.csproj|solutionrelative:22-windowsformsconnetframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5F47AC-04D7-40A6-89FE-87F74DF38450}|Logica\\Logica.csproj|C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\logica\\library\\librarys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C5F47AC-04D7-40A6-89FE-87F74DF38450}|Logica\\Logica.csproj|solutionrelative:logica\\library\\librarys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F213C2C-D465-48C0-BD51-B5D7EAEEB037}|22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework.csproj|c:\\projects\\curso-c-sharp\\22-windowsformsconnetframework\\22-windowsformsconnetframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F213C2C-D465-48C0-BD51-B5D7EAEEB037}|22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework.csproj|solutionrelative:22-windowsformsconnetframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE2D2BC6-A065-4AE2-A862-8394679DE29B}|Data\\Data.csproj|C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\data\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE2D2BC6-A065-4AE2-A862-8394679DE29B}|Data\\Data.csproj|solutionrelative:data\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F213C2C-D465-48C0-BD51-B5D7EAEEB037}|22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework.csproj|c:\\projects\\curso-c-sharp\\22-windowsformsconnetframework\\22-windowsformsconnetframework\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6F213C2C-D465-48C0-BD51-B5D7EAEEB037}|22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework.csproj|solutionrelative:22-windowsformsconnetframework\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0C5F47AC-04D7-40A6-89FE-87F74DF38450}|Logica\\Logica.csproj|c:\\projects\\curso-c-sharp\\22-windowsformsconnetframework\\logica\\lestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5F47AC-04D7-40A6-89FE-87F74DF38450}|Logica\\Logica.csproj|solutionrelative:logica\\lestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE2D2BC6-A065-4AE2-A862-8394679DE29B}|Data\\Data.csproj|C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +25,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{0C5F47AC-04D7-40A6-89FE-87F74DF38450}|Logica\\Logica.csproj|C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\logica\\library\\textboxevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C5F47AC-04D7-40A6-89FE-87F74DF38450}|Logica\\Logica.csproj|solutionrelative:logica\\library\\textboxevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5F47AC-04D7-40A6-89FE-87F74DF38450}|Logica\\Logica.csproj|C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\logica\\library\\librarys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5F47AC-04D7-40A6-89FE-87F74DF38450}|Logica\\Logica.csproj|solutionrelative:logica\\library\\librarys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F213C2C-D465-48C0-BD51-B5D7EAEEB037}|22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework.csproj|C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\22-windowsformsconnetframework\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F213C2C-D465-48C0-BD51-B5D7EAEEB037}|22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework.csproj|solutionrelative:22-windowsformsconnetframework\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1344,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,70 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework\\Form1.cs",
+              "RelativeDocumentMoniker": "22-WindowsFormsConNetFramework\\Form1.cs",
+              "ToolTip": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework\\Form1.cs",
+              "RelativeToolTip": "22-WindowsFormsConNetFramework\\Form1.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAEwH4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T00:14:15.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LEstudiantes.cs",
+              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\Logica\\LEstudiantes.cs",
+              "RelativeDocumentMoniker": "Logica\\LEstudiantes.cs",
+              "ToolTip": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\Logica\\LEstudiantes.cs",
+              "RelativeToolTip": "Logica\\LEstudiantes.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAiwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:09:11.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TextBoxEvent.cs",
+              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\Logica\\Library\\TextBoxEvent.cs",
+              "RelativeDocumentMoniker": "Logica\\Library\\TextBoxEvent.cs",
+              "ToolTip": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\Logica\\Library\\TextBoxEvent.cs",
+              "RelativeToolTip": "Logica\\Library\\TextBoxEvent.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T23:20:13.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Librarys.cs",
+              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\Logica\\Library\\Librarys.cs",
+              "RelativeDocumentMoniker": "Logica\\Library\\Librarys.cs",
+              "ToolTip": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\Logica\\Library\\Librarys.cs",
+              "RelativeToolTip": "Logica\\Library\\Librarys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T23:17:41.355Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\Data\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Data\\Estudiante.cs",
+              "ToolTip": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\Data\\Estudiante.cs",
+              "RelativeToolTip": "Data\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:46:29.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework\\Form1.cs",
               "RelativeDocumentMoniker": "22-WindowsFormsConNetFramework\\Form1.cs",
@@ -62,70 +125,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework\\Form1.cs",
-              "RelativeDocumentMoniker": "22-WindowsFormsConNetFramework\\Form1.cs",
-              "ToolTip": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework\\Form1.cs",
-              "RelativeToolTip": "22-WindowsFormsConNetFramework\\Form1.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwCcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T18:50:15.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LEstudiantes.cs",
-              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\Logica\\LEstudiantes.cs",
-              "RelativeDocumentMoniker": "Logica\\LEstudiantes.cs",
-              "ToolTip": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\Logica\\LEstudiantes.cs",
-              "RelativeToolTip": "Logica\\LEstudiantes.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAwwJYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T23:09:11.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\Data\\Conexion.cs",
               "RelativeDocumentMoniker": "Data\\Conexion.cs",
               "ToolTip": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\Data\\Conexion.cs",
               "RelativeToolTip": "Data\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAawAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T16:55:20.018Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "TextBoxEvent.cs",
-              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\Logica\\Library\\TextBoxEvent.cs",
-              "RelativeDocumentMoniker": "Logica\\Library\\TextBoxEvent.cs",
-              "ToolTip": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\Logica\\Library\\TextBoxEvent.cs",
-              "RelativeToolTip": "Logica\\Library\\TextBoxEvent.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T23:20:13.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Librarys.cs",
-              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\Logica\\Library\\Librarys.cs",
-              "RelativeDocumentMoniker": "Logica\\Library\\Librarys.cs",
-              "ToolTip": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\Logica\\Library\\Librarys.cs",
-              "RelativeToolTip": "Logica\\Library\\Librarys.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T23:17:41.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Resources.resx",
               "DocumentMoniker": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\22-WindowsFormsConNetFramework\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "22-WindowsFormsConNetFramework\\Properties\\Resources.resx",
@@ -134,19 +146,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwH4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2025-06-14T19:18:43.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Estudiante.cs",
-              "DocumentMoniker": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\Data\\Estudiante.cs",
-              "RelativeDocumentMoniker": "Data\\Estudiante.cs",
-              "ToolTip": "C:\\projects\\curso-c-sharp\\22-WindowsFormsConNetFramework\\Data\\Estudiante.cs",
-              "RelativeToolTip": "Data\\Estudiante.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBEAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T18:46:29.866Z",
               "EditorCaption": ""
             }
           ]

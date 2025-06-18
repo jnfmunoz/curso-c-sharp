@@ -137,7 +137,7 @@ namespace Logica
 
         private int _reg_por_pagina = 2, _num_pagina = 1;
 
-        private void BuscarEstudiante(string campo)
+        public void BuscarEstudiante(string campo)
         {
             List<Estudiante> query = new List<Estudiante>();
             int inicio = (_num_pagina - 1) * _reg_por_pagina;
@@ -151,6 +151,7 @@ namespace Logica
                 query = _Estudiante.Where(c => c.nid.StartsWith(campo) || c.nombre.StartsWith(campo)
                             || c.apellido.StartsWith(campo)).ToList();
             }
+
             if (0 < query.Count) 
             {
                 _dataGridView.DataSource = query.Select(c => new
@@ -162,6 +163,22 @@ namespace Logica
                     c.email,
 
                 }).Skip(inicio).Take(_reg_por_pagina).ToList();
+
+                _dataGridView.Columns[0].Visible = false;
+
+                _dataGridView.Columns[1].DefaultCellStyle.BackColor = Color.WhiteSmoke;
+                _dataGridView.Columns[3].DefaultCellStyle.BackColor = Color.WhiteSmoke;
+
+            }
+            else
+            {
+                _dataGridView.DataSource = query.Select(c => new
+                {
+                    c.nid,
+                    c.nombre,
+                    c.apellido,
+                    c.email,
+                }).ToList();
             }
 
         }

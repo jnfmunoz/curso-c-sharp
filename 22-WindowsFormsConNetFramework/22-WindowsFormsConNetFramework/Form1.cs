@@ -120,5 +120,10 @@ namespace _22_WindowsFormsConNetFramework
         {
             estudiante.Registrar(); 
         }
+
+        private void textBoxBuscar_TextChanged(object sender, EventArgs e)
+        {
+            estudiante.BuscarEstudiante(textBoxBuscar.Text);
+        }
     }
 }
