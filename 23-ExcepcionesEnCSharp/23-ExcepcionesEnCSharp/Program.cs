@@ -23,12 +23,10 @@ class Program
             throw new ExcepcionesPersonalizadas("Se ha generado una excepción");
             //String m = e.Message;
             //Console.WriteLine(m);
-        }        
+        }
         finally
         {
             Console.WriteLine("Hello World");
         }
-
-
     }
 }

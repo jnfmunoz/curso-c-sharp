@@ -1,0 +1,15 @@
+C:\projects\curso-c-sharp\24-ClasesGenericas\24-ClasesGenericas\obj\Debug\net8.0\24-ClasesGenericas.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\curso-c-sharp\24-ClasesGenericas\24-ClasesGenericas\obj\Debug\net8.0\24-ClasesGenericas.AssemblyInfoInputs.cache
+C:\projects\curso-c-sharp\24-ClasesGenericas\24-ClasesGenericas\obj\Debug\net8.0\24-ClasesGenericas.AssemblyInfo.cs
+C:\projects\curso-c-sharp\24-ClasesGenericas\24-ClasesGenericas\obj\Debug\net8.0\24-ClasesGenericas.csproj.CoreCompileInputs.cache
+C:\projects\curso-c-sharp\24-ClasesGenericas\24-ClasesGenericas\obj\Debug\net8.0\24-ClasesGenericas.sourcelink.json
+C:\projects\curso-c-sharp\24-ClasesGenericas\24-ClasesGenericas\bin\Debug\net8.0\24-ClasesGenericas.exe
+C:\projects\curso-c-sharp\24-ClasesGenericas\24-ClasesGenericas\bin\Debug\net8.0\24-ClasesGenericas.deps.json
+C:\projects\curso-c-sharp\24-ClasesGenericas\24-ClasesGenericas\bin\Debug\net8.0\24-ClasesGenericas.runtimeconfig.json
+C:\projects\curso-c-sharp\24-ClasesGenericas\24-ClasesGenericas\bin\Debug\net8.0\24-ClasesGenericas.dll
+C:\projects\curso-c-sharp\24-ClasesGenericas\24-ClasesGenericas\bin\Debug\net8.0\24-ClasesGenericas.pdb
+C:\projects\curso-c-sharp\24-ClasesGenericas\24-ClasesGenericas\obj\Debug\net8.0\24-ClasesGenericas.dll
+C:\projects\curso-c-sharp\24-ClasesGenericas\24-ClasesGenericas\obj\Debug\net8.0\refint\24-ClasesGenericas.dll
+C:\projects\curso-c-sharp\24-ClasesGenericas\24-ClasesGenericas\obj\Debug\net8.0\24-ClasesGenericas.pdb
+C:\projects\curso-c-sharp\24-ClasesGenericas\24-ClasesGenericas\obj\Debug\net8.0\24-ClasesGenericas.genruntimeconfig.cache
+C:\projects\curso-c-sharp\24-ClasesGenericas\24-ClasesGenericas\obj\Debug\net8.0\ref\24-ClasesGenericas.dll

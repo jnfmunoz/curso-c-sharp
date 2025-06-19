@@ -21,6 +21,7 @@ namespace Logica
         private PictureBox image;
         private Bitmap _imagBitmap;
         private DataGridView _dataGridView;
+        private NumericUpDown _numericUpDown;
         //private Librarys librarys;
 
         public LEstudiantes(List<TextBox> listTextBox, List<Label> listLabel, object[] objetos)
@@ -30,6 +31,7 @@ namespace Logica
             image = (PictureBox)objetos[0];
             _imagBitmap = (Bitmap)objetos[1];
             _dataGridView = (DataGridView)objetos[2];
+            _numericUpDown = (NumericUpDown)objetos[3];
             Restablecer();
 
             //librarys = new Librarys();
