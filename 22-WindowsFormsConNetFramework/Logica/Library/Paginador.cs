@@ -29,12 +29,55 @@ namespace Logica.Library
             pageCount = (maxReg / _reg_por_pagina);
 
             // Ajusta el número de página si la última página contiene una parte de la página
-            if ((maxReg % _reg_por_pagina) > 0) 
+            if ((maxReg % _reg_por_pagina) > 0)
             {
                 pageCount += 1;
             }
 
-            _label.Text = $"Paginas 1/ {pageCount}";
+            _label.Text = $"Páginas 1/ {pageCount}";
+
+        }
+
+        public int primero()
+        {
+            numPagi = 1;
+            _label.Text = $"Páginas {numPagi}/{pageCount}";
+
+            return numPagi;
+        }
+
+        public int anterior()
+        {
+            if ( numPagi > 1)
+            {
+                numPagi -= 1;
+                _label.Text = $"Páginas {numPagi}/{pageCount}";
+            }
+
+            return numPagi;
+        }
+
+        public int siguiente()
+        {
+            /* if (numPagi == pageCount)
+            {
+                numPagi -= 1;
+            } */
+
+            if ( numPagi < pageCount)
+            {
+                numPagi += 1;
+                _label.Text = $"Paginas { numPagi }/{ pageCount }";
+            }
+
+            return numPagi;
+        }
+
+        public int ultimo()
+        {
+            numPagi = pageCount;
+            _label.Text = $"Paginas {numPagi}/{pageCount}";
+            return numPagi;
 
         }
 

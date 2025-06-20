@@ -127,5 +127,30 @@ namespace _22_WindowsFormsConNetFramework
         {
             estudiante.BuscarEstudiante(textBoxBuscar.Text);
         }
+
+        private void buttonPrimero_Click(object sender, EventArgs e)
+        {
+            estudiante.Paginador("Primero");
+        }
+
+        private void buttonAnterior_Click(object sender, EventArgs e)
+        {
+            estudiante.Paginador("Anterior");
+        }
+
+        private void buttonSiguiente_Click(object sender, EventArgs e)
+        {
+            estudiante.Paginador("Siguiente");
+        }
+
+        private void buttonUltimo_Click(object sender, EventArgs e)
+        {
+            estudiante.Paginador("Ultimo");
+        }
+
+        private void numericUpDown1_ValueChanged(object sender, EventArgs e)
+        {
+            estudiante.RegistroPaginas();
+        }
     }
 }
