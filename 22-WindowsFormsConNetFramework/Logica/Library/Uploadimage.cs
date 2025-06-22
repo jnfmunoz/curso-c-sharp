@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,15 +22,21 @@ namespace Logica.Library
             fd.Filter = "Imagenes|*.jpg;*.gif;*.png;*.bmp";
             fd.ShowDialog();
             if (fd.FileName != string.Empty)
-            {   
+            {
                 pictureBox.ImageLocation = fd.FileName;
             }
         }
-        
+
         public byte[] ImageToByte(Image img)
         {
             var converter = new ImageConverter();
             return (byte[])converter.ConvertTo(img, typeof(byte[]));
+        }
+
+        public Image byteArrayToImage(byte[] byteArrayIn)
+        {
+            MemoryStream ms = new MemoryStream(byteArrayIn);              
+            return Image.FromStream(ms); ;
         }
 
     }

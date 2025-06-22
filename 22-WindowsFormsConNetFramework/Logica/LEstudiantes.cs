@@ -22,7 +22,8 @@ namespace Logica
         private Bitmap _imagBitmap;
         private DataGridView _dataGridView;
         private NumericUpDown _numericUpDown;
-        private Paginador<Estudiante> _paginador;
+        private Paginador<Estudiante> _paginador; // Generic class
+        private String _accion = "insert";
         //private Librarys librarys;
 
         public LEstudiantes(List<TextBox> listTextBox, List<Label> listLabel, object[] objetos)
@@ -164,10 +165,12 @@ namespace Logica
                     c.nombre,
                     c.apellido,
                     c.email,
+                    c.image,
 
                 }).Skip(inicio).Take(_reg_por_pagina).ToList();
 
                 _dataGridView.Columns[0].Visible = false;
+                _dataGridView.Columns[5].Visible = false;
 
                 _dataGridView.Columns[1].DefaultCellStyle.BackColor = Color.WhiteSmoke;
                 _dataGridView.Columns[3].DefaultCellStyle.BackColor = Color.WhiteSmoke;
@@ -182,6 +185,29 @@ namespace Logica
                     c.apellido,
                     c.email,
                 }).ToList();
+            }
+
+        }
+
+        private int _idEstudiante = 0;
+
+        public void GetEstudiante()
+        {
+            _accion = "update";
+            _idEstudiante = Convert.ToInt16(_dataGridView.CurrentRow.Cells[0].Value);
+            listTextBox[0].Text = Convert.ToString(_dataGridView.CurrentRow.Cells[1].Value);
+            listTextBox[1].Text = Convert.ToString(_dataGridView.CurrentRow.Cells[4].Value);
+            listTextBox[2].Text = Convert.ToString(_dataGridView.CurrentRow.Cells[2].Value);
+            listTextBox[3].Text = Convert.ToString(_dataGridView.CurrentRow.Cells[3].Value);
+
+            try
+            {
+                byte[] arrayImage = (byte[])_dataGridView.CurrentRow.Cells[5].Value;
+                image.Image = uploadImage.byteArrayToImage(arrayImage);
+            }
+            catch (Exception)
+            {
+                image.Image = _imagBitmap;
             }
 
         }

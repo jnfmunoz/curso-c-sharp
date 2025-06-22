@@ -155,12 +155,18 @@ namespace _22_WindowsFormsConNetFramework
 
         private void dataGridViewEstudiantes_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-
+            if (dataGridViewEstudiantes.Rows.Count != 0)
+            {
+                estudiante.GetEstudiante();
+            }
         }
 
         private void dataGridViewEstudiantes_KeyUp(object sender, KeyEventArgs e)
         {
-
+            if (dataGridViewEstudiantes.Rows.Count != 0)
+            {
+                estudiante.GetEstudiante();
+            }
         }
     }
 }
