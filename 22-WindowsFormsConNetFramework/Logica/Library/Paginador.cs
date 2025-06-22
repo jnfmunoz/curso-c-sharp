@@ -67,7 +67,7 @@ namespace Logica.Library
             if ( numPagi < pageCount)
             {
                 numPagi += 1;
-                _label.Text = $"Paginas { numPagi }/{ pageCount }";
+                _label.Text = $"Páginas { numPagi }/{ pageCount }";
             }
 
             return numPagi;
@@ -76,7 +76,7 @@ namespace Logica.Library
         public int ultimo()
         {
             numPagi = pageCount;
-            _label.Text = $"Paginas {numPagi}/{pageCount}";
+            _label.Text = $"Páginas {numPagi}/{pageCount}";
             return numPagi;
 
         }

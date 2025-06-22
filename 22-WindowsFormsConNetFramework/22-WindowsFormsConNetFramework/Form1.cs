@@ -152,5 +152,15 @@ namespace _22_WindowsFormsConNetFramework
         {
             estudiante.RegistroPaginas();
         }
+
+        private void dataGridViewEstudiantes_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void dataGridViewEstudiantes_KeyUp(object sender, KeyEventArgs e)
+        {
+
+        }
     }
 }
