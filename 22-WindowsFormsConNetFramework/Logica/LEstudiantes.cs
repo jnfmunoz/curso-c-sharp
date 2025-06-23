@@ -37,6 +37,7 @@ namespace Logica
             Restablecer();
 
             //librarys = new Librarys();
+
         }
 
         public void Registrar()
@@ -75,18 +76,25 @@ namespace Logica
                         {
                             if (textBoxEvent.ComprobarFormatoEmail(listTextBox[1].Text))
                             {
-                                var user = _Estudiante.Where(u => u.email.Equals(listLabel[1].Text)).ToList();
+                                var user = _Estudiante.Where(u => u.email.Equals(listTextBox[1].Text)).ToList();
                                 if (user.Count.Equals(0))
                                 {
                                     Save();
                                 }
                                 else
                                 {
-                                    listLabel[1].Text = "Email ya está registrado!";
-                                    listLabel[1].ForeColor = Color.Red;
-                                    listTextBox[1].Focus();
+                                    if (user[0].id.Equals(_idEstudiante))
+                                    {
+                                        Save();
+                                    }
+                                    else
+                                    {
+                                        listLabel[1].Text = "Email ya está registrado!";
+                                        listLabel[1].ForeColor = Color.Red;
+                                        listTextBox[1].Focus();
+                                    }
+                                        
                                 }
-
                             }
                             else
                             {
@@ -120,12 +128,28 @@ namespace Logica
                 //    });
                 //}
 
-                _Estudiante.Value(e => e.nid, listTextBox[0].Text)
-                    .Value(e => e.nombre, listTextBox[2].Text)
-                    .Value(e => e.apellido, listTextBox[3].Text)
-                    .Value(e => e.email, listTextBox[1].Text)
-                    .Value(e => e.image, imageArray)
-                    .Insert();
+                switch (_accion)
+                {
+                    case "insert":
+                        _Estudiante.Value(e => e.nid, listTextBox[0].Text)  
+                            .Value(e => e.nombre, listTextBox[2].Text)
+                            .Value(e => e.apellido, listTextBox[3].Text)
+                            .Value(e => e.email, listTextBox[1].Text)
+                            .Value(e => e.image, imageArray)
+                            .Insert();
+                        break;
+
+                    case "update":
+                        _Estudiante.Where(e => e.id.Equals(_idEstudiante))
+                            .Set(e => e.nombre, listTextBox[2].Text)
+                            .Set(e => e.apellido, listTextBox[3].Text)
+                            .Set(e => e.email, listTextBox[1].Text)
+                            .Set(e => e.image, imageArray)
+                            .Update();
+                        break;
+
+
+                }
 
                 //int data = Convert.ToInt16("k");
 
@@ -249,8 +273,28 @@ namespace Logica
 
         }
 
-        private void Restablecer()
+        public void Eliminar()
         {
+            if (_idEstudiante.Equals(0))
+            {
+                MessageBox.Show("Seleccione un estudiante!");
+            }
+            else
+            {
+                if (MessageBox.Show("Estas seguro de eliminar el estudiante?",
+                                    "Eliminar estudiante",
+                                    MessageBoxButtons.YesNo) == DialogResult.Yes)
+                {
+                    _Estudiante.Where(c => c.id.Equals(_idEstudiante)).Delete();
+                    Restablecer();
+                }
+            } }
+
+        public void Restablecer()
+        {
+            _accion = "insert";
+            _num_pagina = 1;
+            _idEstudiante = 0;
             image.Image = _imagBitmap;
             listLabel[0].Text = "N° id";
             listLabel[1].Text = "Email";
@@ -268,10 +312,10 @@ namespace Logica
             listTextBox[3].Text = "";
 
             listEstudiante = _Estudiante.ToList();
-           if (0 < listEstudiante.Count) 
-           {
+            if (0 < listEstudiante.Count)
+            {
                 _paginador = new Paginador<Estudiante>(listEstudiante, listLabel[4], _reg_por_pagina);
-           }
+            }
 
             BuscarEstudiante("");
 

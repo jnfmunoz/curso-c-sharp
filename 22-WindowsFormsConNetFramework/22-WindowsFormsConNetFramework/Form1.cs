@@ -168,5 +168,15 @@ namespace _22_WindowsFormsConNetFramework
                 estudiante.GetEstudiante();
             }
         }
+
+        private void buttonCancelar_Click(object sender, EventArgs e)
+        {
+            estudiante.Restablecer();
+        }
+
+        private void buttonEliminar_Click(object sender, EventArgs e)
+        {
+            estudiante.Eliminar();
+        }
     }
 }
